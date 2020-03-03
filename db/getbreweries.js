@@ -17,3 +17,35 @@ fetch(url)
       }
     });
   });
+
+const urlDE = "https://api.openbrewerydb.org/breweries?by_state=delaware";
+
+fetch(urlDE)
+  .then(res => res.json())
+  .then(res => {
+    // console.log(res);
+    let breweriesDE = JSON.stringify(res);
+    fs.writeFile("./db/dataDE.json", breweriesDE, err => {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log("Success!");
+      }
+    });
+  });
+
+const urlPHL = "https://api.openbrewerydb.org/breweries?by_city=philadelphia";
+
+fetch(urlPHL)
+  .then(res => res.json())
+  .then(res => {
+    // console.log(res);
+    let breweriesPHL = JSON.stringify(res);
+    fs.writeFile("./db/dataPHL.json", breweriesPHL, err => {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log("Success!");
+      }
+    });
+  });
