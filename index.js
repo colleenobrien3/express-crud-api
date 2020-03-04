@@ -27,6 +27,12 @@ app.get("/breweries/name/:name", function(req, res) {
   });
 });
 
+app.get("/breweries/city/:city", function(req, res) {
+  Brewery.findOne({ city: req.params.city }).then(breweries => {
+    res.json(breweries);
+  });
+});
+
 app.post("/brewery", function(req, res) {
   Brewery.create(req.body).then(brewery => {
     res.json(brewery);
