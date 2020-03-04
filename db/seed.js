@@ -3,6 +3,8 @@ const Brewery = require("../models/Brewery");
 // const rawBeerData = require("./csvjson.json")
 const dataDE = require("./dataDE.json");
 const dataPHL = require("./dataPHL.json");
+const dataMD = require("./dataMD.json");
+const dataVA = require("./dataVA.json");
 
 //Adding info on specific beers
 
@@ -78,6 +80,40 @@ const newDCData = data.map(item => {
   return brewpub;
 });
 
+const newMDData = dataMD.map(item => {
+  const brewpub = {
+    name: item.name,
+    brewery_type: item.brewery_type,
+    street: item.street,
+    city: item.city,
+    state: item.state,
+    beers: []
+  };
+  for (let i = 0; i < newBeerData.length; i++) {
+    if (brewpub.name === newBeerData[i].brewery) {
+      brewpub.beers.push(newBeerData[i]);
+    }
+  }
+  return brewpub;
+});
+
+const newVAData = dataVA.map(item => {
+  const brewpub = {
+    name: item.name,
+    brewery_type: item.brewery_type,
+    street: item.street,
+    city: item.city,
+    state: item.state,
+    beers: []
+  };
+  for (let i = 0; i < newBeerData.length; i++) {
+    if (brewpub.name === newBeerData[i].brewery) {
+      brewpub.beers.push(newBeerData[i]);
+    }
+  }
+  return brewpub;
+});
+
 //THIS WORKS FOR DC DATA, BUT SEEMS SUPERFLOUS
 // const breweryData = data.map(item => {
 //   const brewery = {
@@ -114,6 +150,12 @@ Brewery.remove({})
   })
   .then(() => {
     Brewery.create(newPHLData).then(breweries => console.log(breweries));
+  })
+  .then(() => {
+    Brewery.create(newMDData).then(breweries => console.log(breweries));
+  })
+  .then(() => {
+    Brewery.create(newVAData).then(breweries => console.log(breweries));
   })
   .catch(err => {
     console.log(err);
