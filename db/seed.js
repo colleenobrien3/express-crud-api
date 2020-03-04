@@ -14,6 +14,7 @@ const newBeerData = dataBeers.map(item => {
     name: item.name,
     style: item.style,
     brewery_id: item.brewery_id,
+    abv: item.abv,
     brewery: ""
   };
   for (k = 0; k < dataBreweries2.length; k++) {
