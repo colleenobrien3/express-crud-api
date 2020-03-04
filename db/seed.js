@@ -4,6 +4,25 @@ const Brewery = require("../models/Brewery");
 const dataDE = require("./dataDE.json");
 const dataPHL = require("./dataPHL.json");
 
+const dataBreweries2 = require("./breweries2.json");
+const dataBeers = require("./beers.json");
+
+const newBeerData = dataBeers.map(item => {
+  for (k = 0; k < dataBreweries2.length; k++) {
+    if (item.breweries_id === dataBreweries2[k].id) {
+      item["brewery"] = dataBreweries[k].id;
+    }
+  }
+});
+
+const newDeData = dataDE.map(item => {
+  for (let i = 0; i < newBeerData.length; i++) {
+    if (item.name.contains(newBeerData[i].brewery)) {
+      (item.beers = []), item.beers.push(newBeerData[i]);
+    }
+  }
+});
+
 const breweryData = data.map(item => {
   const brewery = {
     name: item.name,
@@ -34,7 +53,7 @@ Brewery.remove({})
     Brewery.create(breweryData).then(breweries => console.log(breweries));
   })
   .then(() => {
-    Brewery.create(dataDE).then(breweries => console.log(breweries));
+    Brewery.create(newDeData).then(breweries => console.log(breweries));
   })
   .then(() => {
     Brewery.create(dataPHL).then(breweries => console.log(breweries));

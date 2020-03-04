@@ -1,0 +1,3908 @@
+[
+  {
+    "": 0,
+    "name": "NorthGate Brewing",
+    "city": "Minneapolis",
+    "state": "MN",
+    "id": 0
+  },
+  {
+    "": 1,
+    "name": "Against the Grain Brewery",
+    "city": "Louisville",
+    "state": "KY",
+    "id": 1
+  },
+  {
+    "": 2,
+    "name": "Jack's Abby Craft Lagers",
+    "city": "Framingham",
+    "state": "MA",
+    "id": 2
+  },
+  {
+    "": 3,
+    "name": "Mike Hess Brewing Company",
+    "city": "San Diego",
+    "state": "CA",
+    "id": 3
+  },
+  {
+    "": 4,
+    "name": "Fort Point Beer Company",
+    "city": "San Francisco",
+    "state": "CA",
+    "id": 4
+  },
+  {
+    "": 5,
+    "name": "COAST Brewing Company",
+    "city": "Charleston",
+    "state": "SC",
+    "id": 5
+  },
+  {
+    "": 6,
+    "name": "Great Divide Brewing Company",
+    "city": "Denver",
+    "state": "CO",
+    "id": 6
+  },
+  {
+    "": 7,
+    "name": "Tapistry Brewing",
+    "city": "Bridgman",
+    "state": "MI",
+    "id": 7
+  },
+  {
+    "": 8,
+    "name": "Big Lake Brewing",
+    "city": "Holland",
+    "state": "MI",
+    "id": 8
+  },
+  {
+    "": 9,
+    "name": "The Mitten Brewing Company",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "id": 9
+  },
+  {
+    "": 10,
+    "name": "Brewery Vivant",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "id": 10
+  },
+  {
+    "": 11,
+    "name": "Petoskey Brewing",
+    "city": "Petoskey",
+    "state": "MI",
+    "id": 11
+  },
+  {
+    "": 12,
+    "name": "Blackrocks Brewery",
+    "city": "Marquette",
+    "state": "MI",
+    "id": 12
+  },
+  {
+    "": 13,
+    "name": "Perrin Brewing Company",
+    "city": "Comstock Park",
+    "state": "MI",
+    "id": 13
+  },
+  {
+    "": 14,
+    "name": "Witch's Hat Brewing Company",
+    "city": "South Lyon",
+    "state": "MI",
+    "id": 14
+  },
+  {
+    "": 15,
+    "name": "Founders Brewing Company",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "id": 15
+  },
+  {
+    "": 16,
+    "name": "Flat 12 Bierwerks",
+    "city": "Indianapolis",
+    "state": "IN",
+    "id": 16
+  },
+  {
+    "": 17,
+    "name": "Tin Man Brewing Company",
+    "city": "Evansville",
+    "state": "IN",
+    "id": 17
+  },
+  {
+    "": 18,
+    "name": "Black Acre Brewing Co.",
+    "city": "Indianapolis",
+    "state": "IN",
+    "id": 18
+  },
+  {
+    "": 19,
+    "name": "Brew Link Brewing",
+    "city": "Plainfield",
+    "state": "IN",
+    "id": 19
+  },
+  {
+    "": 20,
+    "name": "Bare Hands Brewery",
+    "city": "Granger",
+    "state": "IN",
+    "id": 20
+  },
+  {
+    "": 21,
+    "name": "Three Pints Brewing",
+    "city": "Martinsville",
+    "state": "IN",
+    "id": 21
+  },
+  {
+    "": 22,
+    "name": "Four Fathers Brewing",
+    "city": "Valparaiso",
+    "state": "IN",
+    "id": 22
+  },
+  {
+    "": 23,
+    "name": "Indiana City Brewing",
+    "city": "Indianapolis",
+    "state": "IN",
+    "id": 23
+  },
+  {
+    "": 24,
+    "name": "Burn 'Em Brewing",
+    "city": "Michigan City",
+    "state": "IN",
+    "id": 24
+  },
+  {
+    "": 25,
+    "name": "Sun King Brewing Company",
+    "city": "Indianapolis",
+    "state": "IN",
+    "id": 25
+  },
+  {
+    "": 26,
+    "name": "Evil Czech Brewery",
+    "city": "Mishawaka",
+    "state": "IN",
+    "id": 26
+  },
+  {
+    "": 27,
+    "name": "450 North Brewing Company",
+    "city": "Columbus",
+    "state": "IN",
+    "id": 27
+  },
+  {
+    "": 28,
+    "name": "Taxman Brewing Company",
+    "city": "Bargersville",
+    "state": "IN",
+    "id": 28
+  },
+  {
+    "": 29,
+    "name": "Cedar Creek Brewery",
+    "city": "Seven Points",
+    "state": "TX",
+    "id": 29
+  },
+  {
+    "": 30,
+    "name": "SanTan Brewing Company",
+    "city": "Chandler",
+    "state": "AZ",
+    "id": 30
+  },
+  {
+    "": 31,
+    "name": "Boulevard Brewing Company",
+    "city": "Kansas City",
+    "state": "MO",
+    "id": 31
+  },
+  {
+    "": 32,
+    "name": "James Page Brewing Company",
+    "city": "Stevens Point",
+    "state": "WI",
+    "id": 32
+  },
+  {
+    "": 33,
+    "name": "The Dudes' Brewing Company",
+    "city": "Torrance",
+    "state": "CA",
+    "id": 33
+  },
+  {
+    "": 34,
+    "name": "Ballast Point Brewing Company",
+    "city": "San Diego",
+    "state": "CA",
+    "id": 34
+  },
+  {
+    "": 35,
+    "name": "Anchor Brewing Company",
+    "city": "San Francisco",
+    "state": "CA",
+    "id": 35
+  },
+  {
+    "": 36,
+    "name": "Figueroa Mountain Brewing Company",
+    "city": "Buellton",
+    "state": "CA",
+    "id": 36
+  },
+  {
+    "": 37,
+    "name": "Avery Brewing Company",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 37
+  },
+  {
+    "": 38,
+    "name": "Twisted X Brewing Company",
+    "city": "Dripping Springs",
+    "state": "TX",
+    "id": 38
+  },
+  {
+    "": 39,
+    "name": "Gonzo's BiggDogg Brewing",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "id": 39
+  },
+  {
+    "": 40,
+    "name": "Big Muddy Brewing",
+    "city": "Murphysboro",
+    "state": "IL",
+    "id": 40
+  },
+  {
+    "": 41,
+    "name": "Lost Nation Brewing",
+    "city": "East Fairfield",
+    "state": "VT",
+    "id": 41
+  },
+  {
+    "": 42,
+    "name": "Rising Tide Brewing Company",
+    "city": "Portland",
+    "state": "ME",
+    "id": 42
+  },
+  {
+    "": 43,
+    "name": "Rivertowne Brewing Company",
+    "city": "Export",
+    "state": "PA",
+    "id": 43
+  },
+  {
+    "": 44,
+    "name": "Revolution Brewing Company",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 44
+  },
+  {
+    "": 45,
+    "name": "Tallgrass Brewing Company",
+    "city": "Manhattan",
+    "state": "KS",
+    "id": 45
+  },
+  {
+    "": 46,
+    "name": "Sixpoint Craft Ales",
+    "city": "Brooklyn",
+    "state": "NY",
+    "id": 46
+  },
+  {
+    "": 47,
+    "name": "White Birch Brewing",
+    "city": "Hooksett",
+    "state": "NH",
+    "id": 47
+  },
+  {
+    "": 48,
+    "name": "Firestone Walker Brewing Company",
+    "city": "Paso Robles",
+    "state": "CA",
+    "id": 48
+  },
+  {
+    "": 49,
+    "name": "SweetWater Brewing Company",
+    "city": "Atlanta",
+    "state": "GA",
+    "id": 49
+  },
+  {
+    "": 50,
+    "name": "Flying Mouse Brewery",
+    "city": "Troutville",
+    "state": "VA",
+    "id": 50
+  },
+  {
+    "": 51,
+    "name": "Upslope Brewing Company",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 51
+  },
+  {
+    "": 52,
+    "name": "Pipeworks Brewing Company",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 52
+  },
+  {
+    "": 53,
+    "name": "Bent Brewstillery",
+    "city": "Roseville",
+    "state": "MN",
+    "id": 53
+  },
+  {
+    "": 54,
+    "name": "Flesk Brewing Company",
+    "city": "Lombard",
+    "state": "IL",
+    "id": 54
+  },
+  {
+    "": 55,
+    "name": "Pollyanna Brewing Company",
+    "city": "Lemont",
+    "state": "IL",
+    "id": 55
+  },
+  {
+    "": 56,
+    "name": "BuckleDown Brewing",
+    "city": "Lyons",
+    "state": "IL",
+    "id": 56
+  },
+  {
+    "": 57,
+    "name": "Destihl Brewery",
+    "city": "Bloomington",
+    "state": "IL",
+    "id": 57
+  },
+  {
+    "": 58,
+    "name": "Summit Brewing Company",
+    "city": "St. Paul",
+    "state": "MN",
+    "id": 58
+  },
+  {
+    "": 59,
+    "name": "Latitude 42 Brewing Company",
+    "city": "Portage",
+    "state": "MI",
+    "id": 59
+  },
+  {
+    "": 60,
+    "name": "4 Hands Brewing Company",
+    "city": "Saint Louis",
+    "state": "MO",
+    "id": 60
+  },
+  {
+    "": 61,
+    "name": "Surly Brewing Company",
+    "city": "Brooklyn Center",
+    "state": "MN",
+    "id": 61
+  },
+  {
+    "": 62,
+    "name": "Against The Grain Brewery",
+    "city": "Louisville",
+    "state": "KY",
+    "id": 62
+  },
+  {
+    "": 63,
+    "name": "Crazy Mountain Brewing Company",
+    "city": "Edwards",
+    "state": "CO",
+    "id": 63
+  },
+  {
+    "": 64,
+    "name": "SlapShot Brewing Company",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 64
+  },
+  {
+    "": 65,
+    "name": "Mikerphone Brewing",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 65
+  },
+  {
+    "": 66,
+    "name": "Freetail Brewing Company",
+    "city": "San Antonio",
+    "state": "TX",
+    "id": 66
+  },
+  {
+    "": 67,
+    "name": "3 Daughters Brewing",
+    "city": "St Petersburg",
+    "state": "FL",
+    "id": 67
+  },
+  {
+    "": 68,
+    "name": "Red Shedman Farm Brewery and Hop...",
+    "city": "Mt. Airy",
+    "state": "MD",
+    "id": 68
+  },
+  {
+    "": 69,
+    "name": "Appalachian Mountain Brewery",
+    "city": "Boone",
+    "state": "NC",
+    "id": 69
+  },
+  {
+    "": 70,
+    "name": "Birdsong Brewing Company",
+    "city": "Charlotte",
+    "state": "NC",
+    "id": 70
+  },
+  {
+    "": 71,
+    "name": "Union Craft Brewing",
+    "city": "Baltimore",
+    "state": "MD",
+    "id": 71
+  },
+  {
+    "": 72,
+    "name": "Atwater Brewery",
+    "city": "Detroit",
+    "state": "MI",
+    "id": 72
+  },
+  {
+    "": 73,
+    "name": "Ale Asylum",
+    "city": "Madison",
+    "state": "WI",
+    "id": 73
+  },
+  {
+    "": 74,
+    "name": "Two Brothers Brewing Company",
+    "city": "Warrenville",
+    "state": "IL",
+    "id": 74
+  },
+  {
+    "": 75,
+    "name": "Bent Paddle Brewing Company",
+    "city": "Duluth",
+    "state": "MN",
+    "id": 75
+  },
+  {
+    "": 76,
+    "name": "Bell's Brewery",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "id": 76
+  },
+  {
+    "": 77,
+    "name": "Blue Owl Brewing",
+    "city": "Austin",
+    "state": "TX",
+    "id": 77
+  },
+  {
+    "": 78,
+    "name": "Speakasy Ales & Lagers",
+    "city": "San Francisco",
+    "state": "CA",
+    "id": 78
+  },
+  {
+    "": 79,
+    "name": "Black Tooth Brewing Company",
+    "city": "Sheridan",
+    "state": "WY",
+    "id": 79
+  },
+  {
+    "": 80,
+    "name": "Hopworks Urban Brewery",
+    "city": "Portland",
+    "state": "OR",
+    "id": 80
+  },
+  {
+    "": 81,
+    "name": "Epic Brewing",
+    "city": "Denver",
+    "state": "CO",
+    "id": 81
+  },
+  {
+    "": 82,
+    "name": "New Belgium Brewing Company",
+    "city": "Fort Collins",
+    "state": "CO",
+    "id": 82
+  },
+  {
+    "": 83,
+    "name": "Sierra Nevada Brewing Company",
+    "city": "Chico",
+    "state": "CA",
+    "id": 83
+  },
+  {
+    "": 84,
+    "name": "Keweenaw Brewing Company",
+    "city": "Houghton",
+    "state": "MI",
+    "id": 84
+  },
+  {
+    "": 85,
+    "name": "Brewery Terra Firma",
+    "city": "Traverse City",
+    "state": "MI",
+    "id": 85
+  },
+  {
+    "": 86,
+    "name": "Grey Sail Brewing Company",
+    "city": "Westerly",
+    "state": "RI",
+    "id": 86
+  },
+  {
+    "": 87,
+    "name": "Kirkwood Station Brewing Company",
+    "city": "Kirkwood",
+    "state": "MO",
+    "id": 87
+  },
+  {
+    "": 88,
+    "name": "Goose Island Brewing Company",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 88
+  },
+  {
+    "": 89,
+    "name": "Broad Brook Brewing LLC",
+    "city": "East Windsor",
+    "state": "CT",
+    "id": 89
+  },
+  {
+    "": 90,
+    "name": "The Lion Brewery",
+    "city": "Wilkes-Barre",
+    "state": "PA",
+    "id": 90
+  },
+  {
+    "": 91,
+    "name": "Madtree Brewing Company",
+    "city": "Cincinnati",
+    "state": "OH",
+    "id": 91
+  },
+  {
+    "": 92,
+    "name": "Jackie O's Pub & Brewery",
+    "city": "Athens",
+    "state": "OH",
+    "id": 92
+  },
+  {
+    "": 93,
+    "name": "Rhinegeist Brewery",
+    "city": "Cincinnati",
+    "state": "OH",
+    "id": 93
+  },
+  {
+    "": 94,
+    "name": "Warped Wing Brewing Company",
+    "city": "Dayton",
+    "state": "OH",
+    "id": 94
+  },
+  {
+    "": 95,
+    "name": "Blackrocks Brewery",
+    "city": "Marquette",
+    "state": "MA",
+    "id": 95
+  },
+  {
+    "": 96,
+    "name": "Catawba Valley Brewing Company",
+    "city": "Morganton",
+    "state": "NC",
+    "id": 96
+  },
+  {
+    "": 97,
+    "name": "Tröegs Brewing Company",
+    "city": "Hershey",
+    "state": "PA",
+    "id": 97
+  },
+  {
+    "": 98,
+    "name": "Mission Brewery",
+    "city": "San Diego",
+    "state": "CA",
+    "id": 98
+  },
+  {
+    "": 99,
+    "name": "Christian Moerlein Brewing Company",
+    "city": "Cincinnati",
+    "state": "OH",
+    "id": 99
+  },
+  {
+    "": 100,
+    "name": "West Sixth Brewing",
+    "city": "Lexington",
+    "state": "KY",
+    "id": 100
+  },
+  {
+    "": 101,
+    "name": "Coastal Extreme Brewing Company",
+    "city": "Newport",
+    "state": "RI",
+    "id": 101
+  },
+  {
+    "": 102,
+    "name": "King Street Brewing Company",
+    "city": "Anchorage",
+    "state": "AK",
+    "id": 102
+  },
+  {
+    "": 103,
+    "name": "Beer Works Brewery",
+    "city": "Lowell",
+    "state": "MA",
+    "id": 103
+  },
+  {
+    "": 104,
+    "name": "Lone Tree Brewing Company",
+    "city": "Lone Tree",
+    "state": "CO",
+    "id": 104
+  },
+  {
+    "": 105,
+    "name": "Four String Brewing Company",
+    "city": "Columbus",
+    "state": "OH",
+    "id": 105
+  },
+  {
+    "": 106,
+    "name": "Glabrous Brewing Company",
+    "city": "Pineland",
+    "state": "ME",
+    "id": 106
+  },
+  {
+    "": 107,
+    "name": "Bonfire Brewing Company",
+    "city": "Eagle",
+    "state": "CO",
+    "id": 107
+  },
+  {
+    "": 108,
+    "name": "Thomas Hooker Brewing Company",
+    "city": "Bloomfield",
+    "state": "CT",
+    "id": 108
+  },
+  {
+    "": 109,
+    "name": "Woodstock Inn, Station & Brewery",
+    "city": "North Woodstock",
+    "state": "NH",
+    "id": 109
+  },
+  {
+    "": 110,
+    "name": "Renegade Brewing Company",
+    "city": "Denver",
+    "state": "CO",
+    "id": 110
+  },
+  {
+    "": 111,
+    "name": "Mother Earth Brew Company",
+    "city": "Vista",
+    "state": "CA",
+    "id": 111
+  },
+  {
+    "": 112,
+    "name": "Black Market Brewing Company",
+    "city": "Temecula",
+    "state": "CA",
+    "id": 112
+  },
+  {
+    "": 113,
+    "name": "Vault Brewing Company",
+    "city": "Yardley",
+    "state": "PA",
+    "id": 113
+  },
+  {
+    "": 114,
+    "name": "Jailbreak Brewing Company",
+    "city": "Laurel",
+    "state": "MD",
+    "id": 114
+  },
+  {
+    "": 115,
+    "name": "Smartmouth Brewing Company",
+    "city": "Norfolk",
+    "state": "VA",
+    "id": 115
+  },
+  {
+    "": 116,
+    "name": "Base Camp Brewing Co.",
+    "city": "Portland",
+    "state": "OR",
+    "id": 116
+  },
+  {
+    "": 117,
+    "name": "Alameda Brewing",
+    "city": "Portland",
+    "state": "OR",
+    "id": 117
+  },
+  {
+    "": 118,
+    "name": "Southern Star Brewing Company",
+    "city": "Conroe",
+    "state": "TX",
+    "id": 118
+  },
+  {
+    "": 119,
+    "name": "Steamworks Brewing Company",
+    "city": "Durango",
+    "state": "CO",
+    "id": 119
+  },
+  {
+    "": 120,
+    "name": "Horny Goat Brew Pub",
+    "city": "Milwaukee",
+    "state": "WI",
+    "id": 120
+  },
+  {
+    "": 121,
+    "name": "Cheboygan Brewing Company",
+    "city": "Cheboygan",
+    "state": "MI",
+    "id": 121
+  },
+  {
+    "": 122,
+    "name": "Center of the Universe Brewing C...",
+    "city": "Ashland",
+    "state": "VA",
+    "id": 122
+  },
+  {
+    "": 123,
+    "name": "Ipswich Ale Brewery",
+    "city": "Ipswich",
+    "state": "MA",
+    "id": 123
+  },
+  {
+    "": 124,
+    "name": "Griffin Claw Brewing Company",
+    "city": "Birmingham",
+    "state": "MI",
+    "id": 124
+  },
+  {
+    "": 125,
+    "name": "Karbach Brewing Company",
+    "city": "Houston",
+    "state": "TX",
+    "id": 125
+  },
+  {
+    "": 126,
+    "name": "Uncle Billy's Brewery and Smokeh...",
+    "city": "Austin",
+    "state": "TX",
+    "id": 126
+  },
+  {
+    "": 127,
+    "name": "Deep Ellum Brewing Company",
+    "city": "Dallas",
+    "state": "TX",
+    "id": 127
+  },
+  {
+    "": 128,
+    "name": "Real Ale Brewing Company",
+    "city": "Blanco",
+    "state": "TX",
+    "id": 128
+  },
+  {
+    "": 129,
+    "name": "Straub Brewery",
+    "city": "St Mary's",
+    "state": "PA",
+    "id": 129
+  },
+  {
+    "": 130,
+    "name": "Shebeen Brewing Company",
+    "city": "Wolcott",
+    "state": "CT",
+    "id": 130
+  },
+  {
+    "": 131,
+    "name": "Stevens Point Brewery",
+    "city": "Stevens Point",
+    "state": "WI",
+    "id": 131
+  },
+  {
+    "": 132,
+    "name": "Weston Brewing Company",
+    "city": "Weston",
+    "state": "MO",
+    "id": 132
+  },
+  {
+    "": 133,
+    "name": "Southern Prohibition Brewing Com...",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "id": 133
+  },
+  {
+    "": 134,
+    "name": "Minhas Craft Brewery",
+    "city": "Monroe",
+    "state": "WI",
+    "id": 134
+  },
+  {
+    "": 135,
+    "name": "Pug Ryan's Brewery",
+    "city": "Dillon",
+    "state": "CO",
+    "id": 135
+  },
+  {
+    "": 136,
+    "name": "Hops & Grains Brewing Company",
+    "city": "Austin",
+    "state": "TX",
+    "id": 136
+  },
+  {
+    "": 137,
+    "name": "Sietsema Orchards and Cider Mill",
+    "city": "Ada",
+    "state": "MI",
+    "id": 137
+  },
+  {
+    "": 138,
+    "name": "Summit Brewing Company",
+    "city": "St Paul",
+    "state": "MN",
+    "id": 138
+  },
+  {
+    "": 139,
+    "name": "Core Brewing & Distilling Company",
+    "city": "Springdale",
+    "state": "AR",
+    "id": 139
+  },
+  {
+    "": 140,
+    "name": "Independence Brewing Company",
+    "city": "Austin",
+    "state": "TX",
+    "id": 140
+  },
+  {
+    "": 141,
+    "name": "Cigar City Brewing Company",
+    "city": "Tampa",
+    "state": "FL",
+    "id": 141
+  },
+  {
+    "": 142,
+    "name": "Third Street Brewhouse",
+    "city": "Cold Spring",
+    "state": "MN",
+    "id": 142
+  },
+  {
+    "": 143,
+    "name": "Narragansett Brewing Company",
+    "city": "Providence",
+    "state": "RI",
+    "id": 143
+  },
+  {
+    "": 144,
+    "name": "Grimm Brothers Brewhouse",
+    "city": "Loveland",
+    "state": "CO",
+    "id": 144
+  },
+  {
+    "": 145,
+    "name": "Cisco Brewers",
+    "city": "Nantucket",
+    "state": "MA",
+    "id": 145
+  },
+  {
+    "": 146,
+    "name": "Angry Minnow",
+    "city": "Hayward",
+    "state": "WI",
+    "id": 146
+  },
+  {
+    "": 147,
+    "name": "Platform Beer Company",
+    "city": "Cleveland",
+    "state": "OH",
+    "id": 147
+  },
+  {
+    "": 148,
+    "name": "Odyssey Beerwerks",
+    "city": "Arvada",
+    "state": "CO",
+    "id": 148
+  },
+  {
+    "": 149,
+    "name": "Lonerider Brewing Company",
+    "city": "Raleigh",
+    "state": "NC",
+    "id": 149
+  },
+  {
+    "": 150,
+    "name": "Oakshire Brewing",
+    "city": "Eugene",
+    "state": "OR",
+    "id": 150
+  },
+  {
+    "": 151,
+    "name": "Fort Pitt Brewing Company",
+    "city": "Latrobe",
+    "state": "PA",
+    "id": 151
+  },
+  {
+    "": 152,
+    "name": "Tin Roof Brewing Company",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "id": 152
+  },
+  {
+    "": 153,
+    "name": "Three Creeks Brewing",
+    "city": "Sisters",
+    "state": "OR",
+    "id": 153
+  },
+  {
+    "": 154,
+    "name": "2 Towns Ciderhouse",
+    "city": "Corvallis",
+    "state": "OR",
+    "id": 154
+  },
+  {
+    "": 155,
+    "name": "Caldera Brewing Company",
+    "city": "Ashland",
+    "state": "OR",
+    "id": 155
+  },
+  {
+    "": 156,
+    "name": "Greenbrier Valley Brewing Company",
+    "city": "Lewisburg",
+    "state": "WV",
+    "id": 156
+  },
+  {
+    "": 157,
+    "name": "Phoenix Ale Brewery",
+    "city": "Phoenix",
+    "state": "AZ",
+    "id": 157
+  },
+  {
+    "": 158,
+    "name": "Lumberyard Brewing Company",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "id": 158
+  },
+  {
+    "": 159,
+    "name": "Uinta Brewing Company",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "id": 159
+  },
+  {
+    "": 160,
+    "name": "Four Peaks Brewing Company",
+    "city": "Tempe",
+    "state": "AZ",
+    "id": 160
+  },
+  {
+    "": 161,
+    "name": "Martin House Brewing Company",
+    "city": "Fort Worth",
+    "state": "TX",
+    "id": 161
+  },
+  {
+    "": 162,
+    "name": "Right Brain Brewery",
+    "city": "Traverse City",
+    "state": "MI",
+    "id": 162
+  },
+  {
+    "": 163,
+    "name": "Sly Fox Brewing Company",
+    "city": "Phoenixville",
+    "state": "PA",
+    "id": 163
+  },
+  {
+    "": 164,
+    "name": "Round Guys Brewing",
+    "city": "Lansdale",
+    "state": "PA",
+    "id": 164
+  },
+  {
+    "": 165,
+    "name": "Great Crescent Brewery",
+    "city": "Aurora",
+    "state": "IN",
+    "id": 165
+  },
+  {
+    "": 166,
+    "name": "Oskar Blues Brewery",
+    "city": "Longmont",
+    "state": "CO",
+    "id": 166
+  },
+  {
+    "": 167,
+    "name": "Boxcar Brewing Company",
+    "city": "West Chester",
+    "state": "PA",
+    "id": 167
+  },
+  {
+    "": 168,
+    "name": "High Hops Brewery",
+    "city": "Windsor",
+    "state": "CO",
+    "id": 168
+  },
+  {
+    "": 169,
+    "name": "Crooked Fence Brewing Company",
+    "city": "Garden City",
+    "state": "ID",
+    "id": 169
+  },
+  {
+    "": 170,
+    "name": "Everybody's Brewing",
+    "city": "White Salmon",
+    "state": "WA",
+    "id": 170
+  },
+  {
+    "": 171,
+    "name": "Anderson Valley Brewing Company",
+    "city": "Boonville",
+    "state": "CA",
+    "id": 171
+  },
+  {
+    "": 172,
+    "name": "Fiddlehead Brewing Company",
+    "city": "Shelburne",
+    "state": "VT",
+    "id": 172
+  },
+  {
+    "": 173,
+    "name": "Evil Twin Brewing",
+    "city": "Brooklyn",
+    "state": "NY",
+    "id": 173
+  },
+  {
+    "": 174,
+    "name": "New Orleans Lager & Ale Brewing ...",
+    "city": "New Orleans",
+    "state": "LA",
+    "id": 174
+  },
+  {
+    "": 175,
+    "name": "Spiteful Brewing Company",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 175
+  },
+  {
+    "": 176,
+    "name": "Rahr & Sons Brewing Company",
+    "city": "Fort Worth",
+    "state": "TX",
+    "id": 176
+  },
+  {
+    "": 177,
+    "name": "18th Street Brewery",
+    "city": "Gary",
+    "state": "IN",
+    "id": 177
+  },
+  {
+    "": 178,
+    "name": "Cambridge Brewing Company",
+    "city": "Cambridge",
+    "state": "MA",
+    "id": 178
+  },
+  {
+    "": 179,
+    "name": "Carolina Brewery",
+    "city": "Pittsboro",
+    "state": "NC",
+    "id": 179
+  },
+  {
+    "": 180,
+    "name": "Frog Level Brewing Company",
+    "city": "Waynesville",
+    "state": "NC",
+    "id": 180
+  },
+  {
+    "": 181,
+    "name": "Wild Wolf Brewing Company",
+    "city": "Nellysford",
+    "state": "VA",
+    "id": 181
+  },
+  {
+    "": 182,
+    "name": "COOP Ale Works",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "id": 182
+  },
+  {
+    "": 183,
+    "name": "Seventh Son Brewing Company",
+    "city": "Columbus",
+    "state": "OH",
+    "id": 183
+  },
+  {
+    "": 184,
+    "name": "Oasis Texas Brewing Company",
+    "city": "Austin",
+    "state": "TX",
+    "id": 184
+  },
+  {
+    "": 185,
+    "name": "Vander Mill Ciders",
+    "city": "Spring Lake",
+    "state": "MI",
+    "id": 185
+  },
+  {
+    "": 186,
+    "name": "St. Julian Winery",
+    "city": "Paw Paw",
+    "state": "MI",
+    "id": 186
+  },
+  {
+    "": 187,
+    "name": "Pedernales Brewing Company",
+    "city": "Fredericksburg",
+    "state": "TX",
+    "id": 187
+  },
+  {
+    "": 188,
+    "name": "Mother's Brewing",
+    "city": "Springfield",
+    "state": "MO",
+    "id": 188
+  },
+  {
+    "": 189,
+    "name": "Modern Monks Brewery",
+    "city": "Lincoln",
+    "state": "NE",
+    "id": 189
+  },
+  {
+    "": 190,
+    "name": "Two Beers Brewing Company",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 190
+  },
+  {
+    "": 191,
+    "name": "Snake River Brewing Company",
+    "city": "Jackson",
+    "state": "WY",
+    "id": 191
+  },
+  {
+    "": 192,
+    "name": "Capital Brewery",
+    "city": "Middleton",
+    "state": "WI",
+    "id": 192
+  },
+  {
+    "": 193,
+    "name": "Anthem Brewing Company",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "id": 193
+  },
+  {
+    "": 194,
+    "name": "Goodlife Brewing Co.",
+    "city": "Bend",
+    "state": "OR",
+    "id": 194
+  },
+  {
+    "": 195,
+    "name": "Breakside Brewery",
+    "city": "Portland",
+    "state": "OR",
+    "id": 195
+  },
+  {
+    "": 196,
+    "name": "Goose Island Brewery Company",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 196
+  },
+  {
+    "": 197,
+    "name": "Burnside Brewing Co.",
+    "city": "Portland",
+    "state": "OR",
+    "id": 197
+  },
+  {
+    "": 198,
+    "name": "Hop Valley Brewing Company",
+    "city": "Springfield",
+    "state": "OR",
+    "id": 198
+  },
+  {
+    "": 199,
+    "name": "Worthy Brewing Company",
+    "city": "Bend",
+    "state": "OR",
+    "id": 199
+  },
+  {
+    "": 200,
+    "name": "Occidental Brewing Company",
+    "city": "Portland",
+    "state": "OR",
+    "id": 200
+  },
+  {
+    "": 201,
+    "name": "Fearless Brewing Company",
+    "city": "Estacada",
+    "state": "OR",
+    "id": 201
+  },
+  {
+    "": 202,
+    "name": "Upland Brewing Company",
+    "city": "Bloomington",
+    "state": "IN",
+    "id": 202
+  },
+  {
+    "": 203,
+    "name": "Mehana Brewing Co.",
+    "city": "Hilo",
+    "state": "HI",
+    "id": 203
+  },
+  {
+    "": 204,
+    "name": "Hawai'i Nui Brewing Co.",
+    "city": "Hilo",
+    "state": "HI",
+    "id": 204
+  },
+  {
+    "": 205,
+    "name": "People's Brewing Company",
+    "city": "Lafayette",
+    "state": "IN",
+    "id": 205
+  },
+  {
+    "": 206,
+    "name": "Fort George Brewery",
+    "city": "Astoria",
+    "state": "OR",
+    "id": 206
+  },
+  {
+    "": 207,
+    "name": "Branchline Brewing Company",
+    "city": "San Antonio",
+    "state": "TX",
+    "id": 207
+  },
+  {
+    "": 208,
+    "name": "Kalona Brewing Company",
+    "city": "Kalona",
+    "state": "IA",
+    "id": 208
+  },
+  {
+    "": 209,
+    "name": "Modern Times Beer",
+    "city": "San Diego",
+    "state": "CA",
+    "id": 209
+  },
+  {
+    "": 210,
+    "name": "Temperance Beer Company",
+    "city": "Evanston",
+    "state": "IL",
+    "id": 210
+  },
+  {
+    "": 211,
+    "name": "Wisconsin Brewing Company",
+    "city": "Verona",
+    "state": "WI",
+    "id": 211
+  },
+  {
+    "": 212,
+    "name": "Crow Peak Brewing Company",
+    "city": "Spearfish",
+    "state": "SD",
+    "id": 212
+  },
+  {
+    "": 213,
+    "name": "Grapevine Craft Brewery",
+    "city": "Farmers Branch",
+    "state": "TX",
+    "id": 213
+  },
+  {
+    "": 214,
+    "name": "Buffalo Bayou Brewing Company",
+    "city": "Houston",
+    "state": "TX",
+    "id": 214
+  },
+  {
+    "": 215,
+    "name": "Texian Brewing Co.",
+    "city": "Richmond",
+    "state": "TX",
+    "id": 215
+  },
+  {
+    "": 216,
+    "name": "Orpheus Brewing",
+    "city": "Atlanta",
+    "state": "GA",
+    "id": 216
+  },
+  {
+    "": 217,
+    "name": "Forgotten Boardwalk",
+    "city": "Cherry Hill",
+    "state": "NJ",
+    "id": 217
+  },
+  {
+    "": 218,
+    "name": "Laughing Dog Brewing Company",
+    "city": "Ponderay",
+    "state": "ID",
+    "id": 218
+  },
+  {
+    "": 219,
+    "name": "Bozeman Brewing Company",
+    "city": "Bozeman",
+    "state": "MT",
+    "id": 219
+  },
+  {
+    "": 220,
+    "name": "Big Choice Brewing",
+    "city": "Broomfield",
+    "state": "CO",
+    "id": 220
+  },
+  {
+    "": 221,
+    "name": "Big Storm Brewing Company",
+    "city": "Odessa",
+    "state": "FL",
+    "id": 221
+  },
+  {
+    "": 222,
+    "name": "Carton Brewing Company",
+    "city": "Atlantic Highlands",
+    "state": "NJ",
+    "id": 222
+  },
+  {
+    "": 223,
+    "name": "Midnight Sun Brewing Company",
+    "city": "Anchorage",
+    "state": "AK",
+    "id": 223
+  },
+  {
+    "": 224,
+    "name": "Fat Head's Brewery",
+    "city": "Middleburg Heights",
+    "state": "OH",
+    "id": 224
+  },
+  {
+    "": 225,
+    "name": "Refuge Brewery",
+    "city": "Temecula",
+    "state": "CA",
+    "id": 225
+  },
+  {
+    "": 226,
+    "name": "Chatham Brewing",
+    "city": "Chatham",
+    "state": "NY",
+    "id": 226
+  },
+  {
+    "": 227,
+    "name": "DC Brau Brewing Company",
+    "city": "Washington",
+    "state": "DC",
+    "id": 227
+  },
+  {
+    "": 228,
+    "name": "Geneva Lake Brewing Company",
+    "city": "Lake Geneva",
+    "state": "WI",
+    "id": 228
+  },
+  {
+    "": 229,
+    "name": "Rochester Mills Brewing Company",
+    "city": "Rochester",
+    "state": "MI",
+    "id": 229
+  },
+  {
+    "": 230,
+    "name": "Cape Ann Brewing Company",
+    "city": "Gloucester",
+    "state": "MA",
+    "id": 230
+  },
+  {
+    "": 231,
+    "name": "Borderlands Brewing Company",
+    "city": "Tucson",
+    "state": "AZ",
+    "id": 231
+  },
+  {
+    "": 232,
+    "name": "College Street Brewhouse and Pub",
+    "city": "Lake Havasu City",
+    "state": "AZ",
+    "id": 232
+  },
+  {
+    "": 233,
+    "name": "Joseph James Brewing Company",
+    "city": "Henderson",
+    "state": "NV",
+    "id": 233
+  },
+  {
+    "": 234,
+    "name": "Harpoon Brewery",
+    "city": "Boston",
+    "state": "MA",
+    "id": 234
+  },
+  {
+    "": 235,
+    "name": "Back East Brewing Company",
+    "city": "Bloomfield",
+    "state": "CT",
+    "id": 235
+  },
+  {
+    "": 236,
+    "name": "Champion Brewing Company",
+    "city": "Charlottesville",
+    "state": "VA",
+    "id": 236
+  },
+  {
+    "": 237,
+    "name": "Devil's Backbone Brewing Company",
+    "city": "Lexington",
+    "state": "VA",
+    "id": 237
+  },
+  {
+    "": 238,
+    "name": "Newburgh Brewing Company",
+    "city": "Newburgh",
+    "state": "NY",
+    "id": 238
+  },
+  {
+    "": 239,
+    "name": "Wiseacre Brewing Company",
+    "city": "Memphis",
+    "state": "TN",
+    "id": 239
+  },
+  {
+    "": 240,
+    "name": "Golden Road Brewing",
+    "city": "Los Angeles",
+    "state": "CA",
+    "id": 240
+  },
+  {
+    "": 241,
+    "name": "New Republic Brewing Company",
+    "city": "College Station",
+    "state": "TX",
+    "id": 241
+  },
+  {
+    "": 242,
+    "name": "Infamous Brewing Company",
+    "city": "Austin",
+    "state": "TX",
+    "id": 242
+  },
+  {
+    "": 243,
+    "name": "Two Henrys Brewing Company",
+    "city": "Plant City",
+    "state": "FL",
+    "id": 243
+  },
+  {
+    "": 244,
+    "name": "Lift Bridge Brewing Company",
+    "city": "Stillwater",
+    "state": "MN",
+    "id": 244
+  },
+  {
+    "": 245,
+    "name": "Lucky Town Brewing Company",
+    "city": "Jackson",
+    "state": "MS",
+    "id": 245
+  },
+  {
+    "": 246,
+    "name": "Quest Brewing Company",
+    "city": "Greenville",
+    "state": "SC",
+    "id": 246
+  },
+  {
+    "": 247,
+    "name": "Creature Comforts",
+    "city": "Athens",
+    "state": "GA",
+    "id": 247
+  },
+  {
+    "": 248,
+    "name": "Half Full Brewery",
+    "city": "Stamford",
+    "state": "CT",
+    "id": 248
+  },
+  {
+    "": 249,
+    "name": "Southampton Publick House",
+    "city": "Southampton",
+    "state": "NY",
+    "id": 249
+  },
+  {
+    "": 250,
+    "name": "Chapman's Brewing",
+    "city": "Angola",
+    "state": "IN",
+    "id": 250
+  },
+  {
+    "": 251,
+    "name": "Barrio Brewing Company",
+    "city": "Tucson",
+    "state": "AZ",
+    "id": 251
+  },
+  {
+    "": 252,
+    "name": "Santa Cruz Mountain Brewing",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "id": 252
+  },
+  {
+    "": 253,
+    "name": "Frankenmuth Brewery",
+    "city": "Frankenmuth",
+    "state": "MI",
+    "id": 253
+  },
+  {
+    "": 254,
+    "name": "Meckley's Cidery",
+    "city": "Somerset Center",
+    "state": "MI",
+    "id": 254
+  },
+  {
+    "": 255,
+    "name": "Stillwater Artisanal Ales",
+    "city": "Baltimore",
+    "state": "MD",
+    "id": 255
+  },
+  {
+    "": 256,
+    "name": "Finch's Beer Company",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 256
+  },
+  {
+    "": 257,
+    "name": "South Austin Brewery",
+    "city": "South Austin",
+    "state": "TX",
+    "id": 257
+  },
+  {
+    "": 258,
+    "name": "Bauhaus Brew Labs",
+    "city": "Minneapolis",
+    "state": "MN",
+    "id": 258
+  },
+  {
+    "": 259,
+    "name": "Ozark Beer Company",
+    "city": "Rogers",
+    "state": "AR",
+    "id": 259
+  },
+  {
+    "": 260,
+    "name": "Mountain Town Brewing Company",
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "id": 260
+  },
+  {
+    "": 261,
+    "name": "Otter Creek Brewing",
+    "city": "Waterbury",
+    "state": "VT",
+    "id": 261
+  },
+  {
+    "": 262,
+    "name": "The Brewer's Art",
+    "city": "Baltimore",
+    "state": "MD",
+    "id": 262
+  },
+  {
+    "": 263,
+    "name": "Denver Beer Company",
+    "city": "Denver",
+    "state": "CO",
+    "id": 263
+  },
+  {
+    "": 264,
+    "name": "Ska Brewing Company",
+    "city": "Durango",
+    "state": "CO",
+    "id": 264
+  },
+  {
+    "": 265,
+    "name": "Tractor Brewing Company",
+    "city": "Albuquerque",
+    "state": "NM",
+    "id": 265
+  },
+  {
+    "": 266,
+    "name": "Peak Organic Brewing Company",
+    "city": "Portland",
+    "state": "ME",
+    "id": 266
+  },
+  {
+    "": 267,
+    "name": "Cape Cod Beer",
+    "city": "Hyannis",
+    "state": "MA",
+    "id": 267
+  },
+  {
+    "": 268,
+    "name": "Long Trail Brewing Company",
+    "city": "Bridgewater Corners",
+    "state": "VT",
+    "id": 268
+  },
+  {
+    "": 269,
+    "name": "Great Raft Brewing Company",
+    "city": "Shreveport",
+    "state": "LA",
+    "id": 269
+  },
+  {
+    "": 270,
+    "name": "Alaskan Brewing Company",
+    "city": "Juneau",
+    "state": "AK",
+    "id": 270
+  },
+  {
+    "": 271,
+    "name": "Notch Brewing Company",
+    "city": "Ipswich",
+    "state": "MA",
+    "id": 271
+  },
+  {
+    "": 272,
+    "name": "The Alchemist",
+    "city": "Waterbury",
+    "state": "VT",
+    "id": 272
+  },
+  {
+    "": 273,
+    "name": "Three Notch'd Brewing Company",
+    "city": "Charlottesville",
+    "state": "VA",
+    "id": 273
+  },
+  {
+    "": 274,
+    "name": "Portside Brewery",
+    "city": "Cleveland",
+    "state": "OH",
+    "id": 274
+  },
+  {
+    "": 275,
+    "name": "Otter Creek Brewing",
+    "city": "Middlebury",
+    "state": "VT",
+    "id": 275
+  },
+  {
+    "": 276,
+    "name": "Montauk Brewing Company",
+    "city": "Montauk",
+    "state": "NY",
+    "id": 276
+  },
+  {
+    "": 277,
+    "name": "Indeed Brewing Company",
+    "city": "Minneapolis",
+    "state": "MN",
+    "id": 277
+  },
+  {
+    "": 278,
+    "name": "Berkshire Brewing Company",
+    "city": "South Deerfield",
+    "state": "MA",
+    "id": 278
+  },
+  {
+    "": 279,
+    "name": "Foolproof Brewing Company",
+    "city": "Pawtucket",
+    "state": "RI",
+    "id": 279
+  },
+  {
+    "": 280,
+    "name": "Headlands Brewing Company",
+    "city": "Mill Valley",
+    "state": "CA",
+    "id": 280
+  },
+  {
+    "": 281,
+    "name": "Bolero Snort Brewery",
+    "city": "Ridgefield Park",
+    "state": "NJ",
+    "id": 281
+  },
+  {
+    "": 282,
+    "name": "Thunderhead Brewing Company",
+    "city": "Kearney",
+    "state": "NE",
+    "id": 282
+  },
+  {
+    "": 283,
+    "name": "Defiance Brewing Company",
+    "city": "Hays",
+    "state": "KS",
+    "id": 283
+  },
+  {
+    "": 284,
+    "name": "Milwaukee Brewing Company",
+    "city": "Milwaukee",
+    "state": "WI",
+    "id": 284
+  },
+  {
+    "": 285,
+    "name": "Catawba Island Brewing",
+    "city": "Port Clinton",
+    "state": "OH",
+    "id": 285
+  },
+  {
+    "": 286,
+    "name": "Back Forty Beer Company",
+    "city": "Gadsden",
+    "state": "AL",
+    "id": 286
+  },
+  {
+    "": 287,
+    "name": "Four Corners Brewing Company",
+    "city": "Dallas",
+    "state": "TX",
+    "id": 287
+  },
+  {
+    "": 288,
+    "name": "Saint Archer Brewery",
+    "city": "San Diego",
+    "state": "CA",
+    "id": 288
+  },
+  {
+    "": 289,
+    "name": "Rogue Ales",
+    "city": "Newport",
+    "state": "OR",
+    "id": 289
+  },
+  {
+    "": 290,
+    "name": "Hale's Ales",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 290
+  },
+  {
+    "": 291,
+    "name": "Tommyknocker Brewery",
+    "city": "Idaho Springs",
+    "state": "CO",
+    "id": 291
+  },
+  {
+    "": 292,
+    "name": "Baxter Brewing Company",
+    "city": "Lewiston",
+    "state": "ME",
+    "id": 292
+  },
+  {
+    "": 293,
+    "name": "Northampton Brewery",
+    "city": "Northamtpon",
+    "state": "MA",
+    "id": 293
+  },
+  {
+    "": 294,
+    "name": "Black Shirt Brewing Company",
+    "city": "Denver",
+    "state": "CO",
+    "id": 294
+  },
+  {
+    "": 295,
+    "name": "Wachusett Brewing Company",
+    "city": "Westminster",
+    "state": "MA",
+    "id": 295
+  },
+  {
+    "": 296,
+    "name": "Widmer Brothers Brewing Company",
+    "city": "Portland",
+    "state": "OR",
+    "id": 296
+  },
+  {
+    "": 297,
+    "name": "Hop Farm Brewing Company",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "id": 297
+  },
+  {
+    "": 298,
+    "name": "Liquid Hero Brewery",
+    "city": "York",
+    "state": "PA",
+    "id": 298
+  },
+  {
+    "": 299,
+    "name": "Matt Brewing Company",
+    "city": "Utica",
+    "state": "NY",
+    "id": 299
+  },
+  {
+    "": 300,
+    "name": "Boston Beer Company",
+    "city": "Boston",
+    "state": "MA",
+    "id": 300
+  },
+  {
+    "": 301,
+    "name": "Old Forge Brewing Company",
+    "city": "Danville",
+    "state": "PA",
+    "id": 301
+  },
+  {
+    "": 302,
+    "name": "Utah Brewers Cooperative",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "id": 302
+  },
+  {
+    "": 303,
+    "name": "Magic Hat Brewing Company",
+    "city": "South Burlington",
+    "state": "VT",
+    "id": 303
+  },
+  {
+    "": 304,
+    "name": "Blue Hills Brewery",
+    "city": "Canton",
+    "state": "MA",
+    "id": 304
+  },
+  {
+    "": 305,
+    "name": "Night Shift Brewing",
+    "city": "Everett",
+    "state": "MA",
+    "id": 305
+  },
+  {
+    "": 306,
+    "name": "Beach Brewing Company",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "id": 306
+  },
+  {
+    "": 307,
+    "name": "Payette Brewing Company",
+    "city": "Garden City",
+    "state": "ID",
+    "id": 307
+  },
+  {
+    "": 308,
+    "name": "Brew Bus Brewing",
+    "city": "Tampa",
+    "state": "FL",
+    "id": 308
+  },
+  {
+    "": 309,
+    "name": "Sockeye Brewing Company",
+    "city": "Boise",
+    "state": "ID",
+    "id": 309
+  },
+  {
+    "": 310,
+    "name": "Pine Street Brewery",
+    "city": "San Francisco",
+    "state": "CA",
+    "id": 310
+  },
+  {
+    "": 311,
+    "name": "Dirty Bucket Brewing Company",
+    "city": "Woodinville",
+    "state": "WA",
+    "id": 311
+  },
+  {
+    "": 312,
+    "name": "Jackalope Brewing Company",
+    "city": "Nashville",
+    "state": "TN",
+    "id": 312
+  },
+  {
+    "": 313,
+    "name": "Slanted Rock Brewing Company",
+    "city": "Meridian",
+    "state": "ID",
+    "id": 313
+  },
+  {
+    "": 314,
+    "name": "Piney River Brewing Company",
+    "city": "Bucryus",
+    "state": "MO",
+    "id": 314
+  },
+  {
+    "": 315,
+    "name": "Cutters Brewing Company",
+    "city": "Avon",
+    "state": "IN",
+    "id": 315
+  },
+  {
+    "": 316,
+    "name": "Iron Hill Brewery & Restaurant",
+    "city": "Wilmington",
+    "state": "DE",
+    "id": 316
+  },
+  {
+    "": 317,
+    "name": "Marshall Wharf Brewing Company",
+    "city": "Belfast",
+    "state": "ME",
+    "id": 317
+  },
+  {
+    "": 318,
+    "name": "Banner Beer Company",
+    "city": "Williamsburg",
+    "state": "MA",
+    "id": 318
+  },
+  {
+    "": 319,
+    "name": "Dick's Brewing Company",
+    "city": "Centralia",
+    "state": "WA",
+    "id": 319
+  },
+  {
+    "": 320,
+    "name": "Claremont Craft Ales",
+    "city": "Claremont",
+    "state": "CA",
+    "id": 320
+  },
+  {
+    "": 321,
+    "name": "Rivertown Brewing Company",
+    "city": "Lockland",
+    "state": "OH",
+    "id": 321
+  },
+  {
+    "": 322,
+    "name": "Voodoo Brewery",
+    "city": "Meadville",
+    "state": "PA",
+    "id": 322
+  },
+  {
+    "": 323,
+    "name": "D.L. Geary Brewing Company",
+    "city": "Portland",
+    "state": "ME",
+    "id": 323
+  },
+  {
+    "": 324,
+    "name": "Pisgah Brewing Company",
+    "city": "Black Mountain",
+    "state": "NC",
+    "id": 324
+  },
+  {
+    "": 325,
+    "name": "Neshaminy Creek Brewing Company",
+    "city": "Croydon",
+    "state": "PA",
+    "id": 325
+  },
+  {
+    "": 326,
+    "name": "Morgan Street Brewery",
+    "city": "Saint Louis",
+    "state": "MO",
+    "id": 326
+  },
+  {
+    "": 327,
+    "name": "Half Acre Beer Company",
+    "city": "Chicago",
+    "state": "IL",
+    "id": 327
+  },
+  {
+    "": 328,
+    "name": "The Just Beer Project",
+    "city": "Burlington",
+    "state": "VT",
+    "id": 328
+  },
+  {
+    "": 329,
+    "name": "The Bronx Brewery",
+    "city": "Bronx",
+    "state": "NY",
+    "id": 329
+  },
+  {
+    "": 330,
+    "name": "Dead Armadillo Craft Brewing",
+    "city": "Tulsa",
+    "state": "OK",
+    "id": 330
+  },
+  {
+    "": 331,
+    "name": "Catawba Brewing Company",
+    "city": "Morganton",
+    "state": "NC",
+    "id": 331
+  },
+  {
+    "": 332,
+    "name": "La Cumbre Brewing Company",
+    "city": "Albuquerque",
+    "state": "NM",
+    "id": 332
+  },
+  {
+    "": 333,
+    "name": "David's Ale Works",
+    "city": "Diamond Springs",
+    "state": "CA",
+    "id": 333
+  },
+  {
+    "": 334,
+    "name": "The Traveler Beer Company",
+    "city": "Burlington",
+    "state": "VT",
+    "id": 334
+  },
+  {
+    "": 335,
+    "name": "Fargo Brewing Company",
+    "city": "Fargo",
+    "state": "ND",
+    "id": 335
+  },
+  {
+    "": 336,
+    "name": "Big Sky Brewing Company",
+    "city": "Missoula",
+    "state": "MT",
+    "id": 336
+  },
+  {
+    "": 337,
+    "name": "Nebraska Brewing Company",
+    "city": "Papillion",
+    "state": "NE",
+    "id": 337
+  },
+  {
+    "": 338,
+    "name": "Uncle John's Fruit House Winery",
+    "city": "St. John's",
+    "state": "MI",
+    "id": 338
+  },
+  {
+    "": 339,
+    "name": "Wormtown Brewery",
+    "city": "Worcester",
+    "state": "MA",
+    "id": 339
+  },
+  {
+    "": 340,
+    "name": "Due South Brewing Company",
+    "city": "Boynton Beach",
+    "state": "FL",
+    "id": 340
+  },
+  {
+    "": 341,
+    "name": "Palisade Brewing Company",
+    "city": "Palisade",
+    "state": "CO",
+    "id": 341
+  },
+  {
+    "": 342,
+    "name": "KelSo Beer Company",
+    "city": "Brooklyn",
+    "state": "NY",
+    "id": 342
+  },
+  {
+    "": 343,
+    "name": "Hardywood Park Craft Brewery",
+    "city": "Richmond",
+    "state": "VA",
+    "id": 343
+  },
+  {
+    "": 344,
+    "name": "Wolf Hills Brewing Company",
+    "city": "Abingdon",
+    "state": "VA",
+    "id": 344
+  },
+  {
+    "": 345,
+    "name": "Lavery Brewing Company",
+    "city": "Erie",
+    "state": "PA",
+    "id": 345
+  },
+  {
+    "": 346,
+    "name": "Manzanita Brewing Company",
+    "city": "Santee",
+    "state": "CA",
+    "id": 346
+  },
+  {
+    "": 347,
+    "name": "Fullsteam Brewery",
+    "city": "Durham",
+    "state": "NC",
+    "id": 347
+  },
+  {
+    "": 348,
+    "name": "Four Horsemen Brewing Company",
+    "city": "South Bend",
+    "state": "IN",
+    "id": 348
+  },
+  {
+    "": 349,
+    "name": "Hinterland Brewery",
+    "city": "Green Bay",
+    "state": "WI",
+    "id": 349
+  },
+  {
+    "": 350,
+    "name": "Central Coast Brewing Company",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "id": 350
+  },
+  {
+    "": 351,
+    "name": "Westfield River Brewing Company",
+    "city": "Westfield",
+    "state": "MA",
+    "id": 351
+  },
+  {
+    "": 352,
+    "name": "Elevator Brewing Company",
+    "city": "Columbus",
+    "state": "OH",
+    "id": 352
+  },
+  {
+    "": 353,
+    "name": "Aslan Brewing Company",
+    "city": "Bellingham",
+    "state": "WA",
+    "id": 353
+  },
+  {
+    "": 354,
+    "name": "Kulshan Brewery",
+    "city": "Bellingham",
+    "state": "WA",
+    "id": 354
+  },
+  {
+    "": 355,
+    "name": "Pikes Peak Brewing Company",
+    "city": "Monument",
+    "state": "CO",
+    "id": 355
+  },
+  {
+    "": 356,
+    "name": "Manayunk Brewing Company",
+    "city": "Philadelphia",
+    "state": "PA",
+    "id": 356
+  },
+  {
+    "": 357,
+    "name": "Buckeye Brewing",
+    "city": "Cleveland",
+    "state": "OH",
+    "id": 357
+  },
+  {
+    "": 358,
+    "name": "Daredevil Brewing Company",
+    "city": "Shelbyville",
+    "state": "IN",
+    "id": 358
+  },
+  {
+    "": 359,
+    "name": "NoDa Brewing Company",
+    "city": "Charlotte",
+    "state": "NC",
+    "id": 359
+  },
+  {
+    "": 360,
+    "name": "Aviator Brewing Company",
+    "city": "Fuquay-Varina",
+    "state": "NC",
+    "id": 360
+  },
+  {
+    "": 361,
+    "name": "Wild Onion Brewing Company",
+    "city": "Lake Barrington",
+    "state": "IL",
+    "id": 361
+  },
+  {
+    "": 362,
+    "name": "Hilliard's Beer",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 362
+  },
+  {
+    "": 363,
+    "name": "Mikkeller",
+    "city": "Pottstown",
+    "state": "PA",
+    "id": 363
+  },
+  {
+    "": 364,
+    "name": "Bohemian Brewery",
+    "city": "Midvale",
+    "state": "UT",
+    "id": 364
+  },
+  {
+    "": 365,
+    "name": "Great River Brewery",
+    "city": "Davenport",
+    "state": "IA",
+    "id": 365
+  },
+  {
+    "": 366,
+    "name": "Mustang Brewing Company",
+    "city": "Mustang",
+    "state": "OK",
+    "id": 366
+  },
+  {
+    "": 367,
+    "name": "Airways Brewing Company",
+    "city": "Kent",
+    "state": "WA",
+    "id": 367
+  },
+  {
+    "": 368,
+    "name": "21st Amendment Brewery",
+    "city": "San Francisco",
+    "state": "CA",
+    "id": 368
+  },
+  {
+    "": 369,
+    "name": "Eddyline Brewery & Restaurant",
+    "city": "Buena Vista",
+    "state": "CO",
+    "id": 369
+  },
+  {
+    "": 370,
+    "name": "Pizza Port Brewing Company",
+    "city": "Carlsbad",
+    "state": "CA",
+    "id": 370
+  },
+  {
+    "": 371,
+    "name": "Sly Fox Brewing Company",
+    "city": "Pottstown",
+    "state": "PA",
+    "id": 371
+  },
+  {
+    "": 372,
+    "name": "Spring House Brewing Company",
+    "city": "Conestoga",
+    "state": "PA",
+    "id": 372
+  },
+  {
+    "": 373,
+    "name": "7venth Sun",
+    "city": "Dunedin",
+    "state": "FL",
+    "id": 373
+  },
+  {
+    "": 374,
+    "name": "Astoria Brewing Company",
+    "city": "Astoria",
+    "state": "OR",
+    "id": 374
+  },
+  {
+    "": 375,
+    "name": "Maui Brewing Company",
+    "city": "Lahaina",
+    "state": "HI",
+    "id": 375
+  },
+  {
+    "": 376,
+    "name": "RoughTail Brewing Company",
+    "city": "Midwest City",
+    "state": "OK",
+    "id": 376
+  },
+  {
+    "": 377,
+    "name": "Lucette Brewing Company",
+    "city": "Menominee",
+    "state": "WI",
+    "id": 377
+  },
+  {
+    "": 378,
+    "name": "Bold City Brewery",
+    "city": "Jacksonville",
+    "state": "FL",
+    "id": 378
+  },
+  {
+    "": 379,
+    "name": "Grey Sail Brewing of Rhode Island",
+    "city": "Westerly",
+    "state": "RI",
+    "id": 379
+  },
+  {
+    "": 380,
+    "name": "Blue Blood Brewing Company",
+    "city": "Lincoln",
+    "state": "NE",
+    "id": 380
+  },
+  {
+    "": 381,
+    "name": "Swashbuckler Brewing Company",
+    "city": "Manheim",
+    "state": "PA",
+    "id": 381
+  },
+  {
+    "": 382,
+    "name": "Blue Mountain Brewery",
+    "city": "Afton",
+    "state": "VA",
+    "id": 382
+  },
+  {
+    "": 383,
+    "name": "Starr Hill Brewery",
+    "city": "Crozet",
+    "state": "VA",
+    "id": 383
+  },
+  {
+    "": 384,
+    "name": "Westbrook Brewing Company",
+    "city": "Mt. Pleasant",
+    "state": "SC",
+    "id": 384
+  },
+  {
+    "": 385,
+    "name": "Shipyard Brewing Company",
+    "city": "Portland",
+    "state": "ME",
+    "id": 385
+  },
+  {
+    "": 386,
+    "name": "Revolution Brewing",
+    "city": "Paonia",
+    "state": "CO",
+    "id": 386
+  },
+  {
+    "": 387,
+    "name": "Natian Brewery",
+    "city": "Portland",
+    "state": "OR",
+    "id": 387
+  },
+  {
+    "": 388,
+    "name": "Alltech's Lexington Brewing Company",
+    "city": "Lexington",
+    "state": "KY",
+    "id": 388
+  },
+  {
+    "": 389,
+    "name": "Oskar Blues Brewery (North Carol...",
+    "city": "Brevard",
+    "state": "NC",
+    "id": 389
+  },
+  {
+    "": 390,
+    "name": "Orlison Brewing Company",
+    "city": "Airway Heights",
+    "state": "WA",
+    "id": 390
+  },
+  {
+    "": 391,
+    "name": "Breckenridge Brewery",
+    "city": "Denver",
+    "state": "CO",
+    "id": 391
+  },
+  {
+    "": 392,
+    "name": "Santa Fe Brewing Company",
+    "city": "Santa Fe",
+    "state": "NM",
+    "id": 392
+  },
+  {
+    "": 393,
+    "name": "Miami Brewing Company",
+    "city": "Miami",
+    "state": "FL",
+    "id": 393
+  },
+  {
+    "": 394,
+    "name": "Schilling & Company",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 394
+  },
+  {
+    "": 395,
+    "name": "Hops & Grain Brewery",
+    "city": "Austin",
+    "state": "TX",
+    "id": 395
+  },
+  {
+    "": 396,
+    "name": "White Flame Brewing Company",
+    "city": "Hudsonville",
+    "state": "MI",
+    "id": 396
+  },
+  {
+    "": 397,
+    "name": "Ruhstaller Beer Company",
+    "city": "Sacramento",
+    "state": "CA",
+    "id": 397
+  },
+  {
+    "": 398,
+    "name": "Saugatuck Brewing Company",
+    "city": "Douglas",
+    "state": "MI",
+    "id": 398
+  },
+  {
+    "": 399,
+    "name": "Moab Brewery",
+    "city": "Moab",
+    "state": "UT",
+    "id": 399
+  },
+  {
+    "": 400,
+    "name": "Macon Beer Company",
+    "city": "Macon",
+    "state": "GA",
+    "id": 400
+  },
+  {
+    "": 401,
+    "name": "Amnesia Brewing Company",
+    "city": "Washougal",
+    "state": "WA",
+    "id": 401
+  },
+  {
+    "": 402,
+    "name": "Wolverine State Brewing Company",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "id": 402
+  },
+  {
+    "": 403,
+    "name": "Red Tank Cider Company",
+    "city": "Bend",
+    "state": "OR",
+    "id": 403
+  },
+  {
+    "": 404,
+    "name": "Cascadia Ciderworks United",
+    "city": "Portland",
+    "state": "OR",
+    "id": 404
+  },
+  {
+    "": 405,
+    "name": "Fate Brewing Company",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 405
+  },
+  {
+    "": 406,
+    "name": "Lazy Monk Brewing",
+    "city": "Eau Claire",
+    "state": "WI",
+    "id": 406
+  },
+  {
+    "": 407,
+    "name": "Bitter Root Brewing",
+    "city": "Hamilton",
+    "state": "MT",
+    "id": 407
+  },
+  {
+    "": 408,
+    "name": "10 Barrel Brewing Company",
+    "city": "Bend",
+    "state": "OR",
+    "id": 408
+  },
+  {
+    "": 409,
+    "name": "Tamarack Brewing Company",
+    "city": "Lakeside",
+    "state": "MT",
+    "id": 409
+  },
+  {
+    "": 410,
+    "name": "New England Brewing Company",
+    "city": "Woodbridge",
+    "state": "CT",
+    "id": 410
+  },
+  {
+    "": 411,
+    "name": "Seattle Cider Company",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 411
+  },
+  {
+    "": 412,
+    "name": "Straight to Ale",
+    "city": "Huntsville",
+    "state": "AL",
+    "id": 412
+  },
+  {
+    "": 413,
+    "name": "Austin Beerworks",
+    "city": "Austin",
+    "state": "TX",
+    "id": 413
+  },
+  {
+    "": 414,
+    "name": "Blue Mountain Brewery",
+    "city": "Arrington",
+    "state": "VA",
+    "id": 414
+  },
+  {
+    "": 415,
+    "name": "Coastal Empire Beer Company",
+    "city": "Savannah",
+    "state": "GA",
+    "id": 415
+  },
+  {
+    "": 416,
+    "name": "Jack's Hard Cider (Hauser Estate...",
+    "city": "Biglerville",
+    "state": "PA",
+    "id": 416
+  },
+  {
+    "": 417,
+    "name": "Boulder Beer Company",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 417
+  },
+  {
+    "": 418,
+    "name": "Coalition Brewing Company",
+    "city": "Portland",
+    "state": "OR",
+    "id": 418
+  },
+  {
+    "": 419,
+    "name": "Sanitas Brewing Company",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 419
+  },
+  {
+    "": 420,
+    "name": "Gore Range Brewery",
+    "city": "Edwards",
+    "state": "CO",
+    "id": 420
+  },
+  {
+    "": 421,
+    "name": "Redstone Meadery",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 421
+  },
+  {
+    "": 422,
+    "name": "Blue Dog Mead",
+    "city": "Eugene",
+    "state": "OR",
+    "id": 422
+  },
+  {
+    "": 423,
+    "name": "Hess Brewing Company",
+    "city": "San Diego",
+    "state": "CA",
+    "id": 423
+  },
+  {
+    "": 424,
+    "name": "Wynkoop Brewing Company",
+    "city": "Denver",
+    "state": "CO",
+    "id": 424
+  },
+  {
+    "": 425,
+    "name": "Ciderboys",
+    "city": "Stevens Point",
+    "state": "WI",
+    "id": 425
+  },
+  {
+    "": 426,
+    "name": "Armadillo Ale Works",
+    "city": "Denton",
+    "state": "TX",
+    "id": 426
+  },
+  {
+    "": 427,
+    "name": "Roanoke Railhouse Brewery",
+    "city": "Roanoke",
+    "state": "VA",
+    "id": 427
+  },
+  {
+    "": 428,
+    "name": "Schlafly Brewing Company",
+    "city": "Saint Louis",
+    "state": "MO",
+    "id": 428
+  },
+  {
+    "": 429,
+    "name": "Asher Brewing Company",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 429
+  },
+  {
+    "": 430,
+    "name": "Lost Rhino Brewing Company",
+    "city": "Ashburn",
+    "state": "VA",
+    "id": 430
+  },
+  {
+    "": 431,
+    "name": "North Country Brewing Company",
+    "city": "Slippery Rock",
+    "state": "PA",
+    "id": 431
+  },
+  {
+    "": 432,
+    "name": "Seabright Brewery",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "id": 432
+  },
+  {
+    "": 433,
+    "name": "French Broad Brewery",
+    "city": "Asheville",
+    "state": "NC",
+    "id": 433
+  },
+  {
+    "": 434,
+    "name": "Angry Orchard Cider Company",
+    "city": "Cincinnati",
+    "state": "OH",
+    "id": 434
+  },
+  {
+    "": 435,
+    "name": "Two Roads Brewing Company",
+    "city": "Stratford",
+    "state": "CT",
+    "id": 435
+  },
+  {
+    "": 436,
+    "name": "Southern Oregon Brewing Company",
+    "city": "Medford",
+    "state": "OR",
+    "id": 436
+  },
+  {
+    "": 437,
+    "name": "Brooklyn Brewery",
+    "city": "Brooklyn",
+    "state": "NY",
+    "id": 437
+  },
+  {
+    "": 438,
+    "name": "The Right Brain Brewery",
+    "city": "Traverse City",
+    "state": "MI",
+    "id": 438
+  },
+  {
+    "": 439,
+    "name": "Kona Brewing Company",
+    "city": "Kona",
+    "state": "HI",
+    "id": 439
+  },
+  {
+    "": 440,
+    "name": "MillKing It Productions",
+    "city": "Royal Oak",
+    "state": "MI",
+    "id": 440
+  },
+  {
+    "": 441,
+    "name": "Pateros Creek Brewing Company",
+    "city": "Fort Collins",
+    "state": "CO",
+    "id": 441
+  },
+  {
+    "": 442,
+    "name": "O'Fallon Brewery",
+    "city": "O'Fallon",
+    "state": "MO",
+    "id": 442
+  },
+  {
+    "": 443,
+    "name": "Marble Brewery",
+    "city": "Albuquerque",
+    "state": "NM",
+    "id": 443
+  },
+  {
+    "": 444,
+    "name": "Big Wood Brewery",
+    "city": "Vadnais Heights",
+    "state": "MN",
+    "id": 444
+  },
+  {
+    "": 445,
+    "name": "Howard Brewing Company",
+    "city": "Lenoir",
+    "state": "NC",
+    "id": 445
+  },
+  {
+    "": 446,
+    "name": "Downeast Cider House",
+    "city": "Leominster",
+    "state": "MA",
+    "id": 446
+  },
+  {
+    "": 447,
+    "name": "Swamp Head Brewery",
+    "city": "Gainesville",
+    "state": "FL",
+    "id": 447
+  },
+  {
+    "": 448,
+    "name": "Mavericks Beer Company",
+    "city": "Half Moon Bay",
+    "state": "CA",
+    "id": 448
+  },
+  {
+    "": 449,
+    "name": "TailGate Beer",
+    "city": "San Diego",
+    "state": "CA",
+    "id": 449
+  },
+  {
+    "": 450,
+    "name": "Northwest Brewing Company",
+    "city": "Pacific",
+    "state": "WA",
+    "id": 450
+  },
+  {
+    "": 451,
+    "name": "Dad & Dude's Breweria",
+    "city": "Aurora",
+    "state": "CO",
+    "id": 451
+  },
+  {
+    "": 452,
+    "name": "Centennial Beer Company",
+    "city": "Edwards",
+    "state": "CO",
+    "id": 452
+  },
+  {
+    "": 453,
+    "name": "Denali Brewing Company",
+    "city": "Talkeetna",
+    "state": "AK",
+    "id": 453
+  },
+  {
+    "": 454,
+    "name": "Deschutes Brewery",
+    "city": "Bend",
+    "state": "OR",
+    "id": 454
+  },
+  {
+    "": 455,
+    "name": "Sunken City Brewing Company",
+    "city": "Hardy",
+    "state": "VA",
+    "id": 455
+  },
+  {
+    "": 456,
+    "name": "Lucette Brewing Company",
+    "city": "Menominie",
+    "state": "WI",
+    "id": 456
+  },
+  {
+    "": 457,
+    "name": "The Black Tooth Brewing Company",
+    "city": "Sheridan",
+    "state": "WY",
+    "id": 457
+  },
+  {
+    "": 458,
+    "name": "Kenai River Brewing Company",
+    "city": "Soldotna",
+    "state": "AK",
+    "id": 458
+  },
+  {
+    "": 459,
+    "name": "River North Brewery",
+    "city": "Denver",
+    "state": "CO",
+    "id": 459
+  },
+  {
+    "": 460,
+    "name": "Fremont Brewing Company",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 460
+  },
+  {
+    "": 461,
+    "name": "Armstrong Brewing Company",
+    "city": "South San Francisco",
+    "state": "CA",
+    "id": 461
+  },
+  {
+    "": 462,
+    "name": "AC Golden Brewing Company",
+    "city": "Golden",
+    "state": "CO",
+    "id": 462
+  },
+  {
+    "": 463,
+    "name": "Big Bend Brewing Company",
+    "city": "Alpine",
+    "state": "TX",
+    "id": 463
+  },
+  {
+    "": 464,
+    "name": "Good Life Brewing Company",
+    "city": "Bend",
+    "state": "OR",
+    "id": 464
+  },
+  {
+    "": 465,
+    "name": "Engine 15 Brewing",
+    "city": "Jacksonville Beach",
+    "state": "FL",
+    "id": 465
+  },
+  {
+    "": 466,
+    "name": "Green Room Brewing",
+    "city": "Jacksonville",
+    "state": "FL",
+    "id": 466
+  },
+  {
+    "": 467,
+    "name": "Brindle Dog Brewing Company",
+    "city": "Tampa Bay",
+    "state": "FL",
+    "id": 467
+  },
+  {
+    "": 468,
+    "name": "Peace Tree Brewing Company",
+    "city": "Knoxville",
+    "state": "IA",
+    "id": 468
+  },
+  {
+    "": 469,
+    "name": "Terrapin Brewing Company",
+    "city": "Athens",
+    "state": "GA",
+    "id": 469
+  },
+  {
+    "": 470,
+    "name": "Pete's Brewing Company",
+    "city": "San Antonio",
+    "state": "TX",
+    "id": 470
+  },
+  {
+    "": 471,
+    "name": "Okoboji Brewing Company",
+    "city": "Spirit Lake",
+    "state": "IA",
+    "id": 471
+  },
+  {
+    "": 472,
+    "name": "Crystal Springs Brewing Company",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 472
+  },
+  {
+    "": 473,
+    "name": "Engine House 9",
+    "city": "Tacoma",
+    "state": "WA",
+    "id": 473
+  },
+  {
+    "": 474,
+    "name": "Tonka Beer Company",
+    "city": "Minnetonka",
+    "state": "MN",
+    "id": 474
+  },
+  {
+    "": 475,
+    "name": "Red Hare Brewing Company",
+    "city": "Marietta",
+    "state": "GA",
+    "id": 475
+  },
+  {
+    "": 476,
+    "name": "Hangar 24 Craft Brewery",
+    "city": "Redlands",
+    "state": "CA",
+    "id": 476
+  },
+  {
+    "": 477,
+    "name": "Big Elm Brewing",
+    "city": "Sheffield",
+    "state": "MA",
+    "id": 477
+  },
+  {
+    "": 478,
+    "name": "Good People Brewing Company",
+    "city": "Birmingham",
+    "state": "AL",
+    "id": 478
+  },
+  {
+    "": 479,
+    "name": "Heavy Seas Beer",
+    "city": "Halethorpe",
+    "state": "MD",
+    "id": 479
+  },
+  {
+    "": 480,
+    "name": "Telluride Brewing Company",
+    "city": "Telluride",
+    "state": "CO",
+    "id": 480
+  },
+  {
+    "": 481,
+    "name": "7 Seas Brewing Company",
+    "city": "Gig Harbor",
+    "state": "WA",
+    "id": 481
+  },
+  {
+    "": 482,
+    "name": "Confluence Brewing Company",
+    "city": "Des Moines",
+    "state": "IA",
+    "id": 482
+  },
+  {
+    "": 483,
+    "name": "Bale Breaker Brewing Company",
+    "city": "Yakima",
+    "state": "WA",
+    "id": 483
+  },
+  {
+    "": 484,
+    "name": "The Manhattan Brewing Company",
+    "city": "New York",
+    "state": "NY",
+    "id": 484
+  },
+  {
+    "": 485,
+    "name": "MacTarnahans Brewing Company",
+    "city": "Portland",
+    "state": "OR",
+    "id": 485
+  },
+  {
+    "": 486,
+    "name": "Stillmank Beer Company",
+    "city": "Green Bay",
+    "state": "WI",
+    "id": 486
+  },
+  {
+    "": 487,
+    "name": "Redhook Brewery",
+    "city": "Woodinville",
+    "state": "WA",
+    "id": 487
+  },
+  {
+    "": 488,
+    "name": "Dock Street Brewery",
+    "city": "Philadelphia",
+    "state": "PA",
+    "id": 488
+  },
+  {
+    "": 489,
+    "name": "Blue Point Brewing Company",
+    "city": "Patchogue",
+    "state": "NY",
+    "id": 489
+  },
+  {
+    "": 490,
+    "name": "Tampa Bay Brewing Company",
+    "city": "Tampa",
+    "state": "FL",
+    "id": 490
+  },
+  {
+    "": 491,
+    "name": "Devil's Canyon Brewery",
+    "city": "Belmont",
+    "state": "CA",
+    "id": 491
+  },
+  {
+    "": 492,
+    "name": "Stone Coast Brewing Company",
+    "city": "Portland",
+    "state": "ME",
+    "id": 492
+  },
+  {
+    "": 493,
+    "name": "Broken Tooth Brewing Company",
+    "city": "Anchorage",
+    "state": "AK",
+    "id": 493
+  },
+  {
+    "": 494,
+    "name": "Seven Brides Brewery",
+    "city": "Silverton",
+    "state": "OR",
+    "id": 494
+  },
+  {
+    "": 495,
+    "name": "Newburyport Brewing Company",
+    "city": "Newburyport",
+    "state": "MA",
+    "id": 495
+  },
+  {
+    "": 496,
+    "name": "Dry Dock Brewing Company",
+    "city": "Aurora",
+    "state": "CO",
+    "id": 496
+  },
+  {
+    "": 497,
+    "name": "Cans Bar and Canteen",
+    "city": "Charlotte",
+    "state": "NC",
+    "id": 497
+  },
+  {
+    "": 498,
+    "name": "Sprecher Brewing Company",
+    "city": "Glendale",
+    "state": "WI",
+    "id": 498
+  },
+  {
+    "": 499,
+    "name": "Wildwood Brewing Company",
+    "city": "Stevensville",
+    "state": "MT",
+    "id": 499
+  },
+  {
+    "": 500,
+    "name": "High Noon Saloon And Brewery",
+    "city": "Leavenworth",
+    "state": "KS",
+    "id": 500
+  },
+  {
+    "": 501,
+    "name": "Woodchuck Hard Cider",
+    "city": "Middlebury",
+    "state": "VT",
+    "id": 501
+  },
+  {
+    "": 502,
+    "name": "Sea Dog Brewing Company",
+    "city": "Portland",
+    "state": "ME",
+    "id": 502
+  },
+  {
+    "": 503,
+    "name": "Oskar Blues Brewery",
+    "city": "Lyons",
+    "state": "CO",
+    "id": 503
+  },
+  {
+    "": 504,
+    "name": "Carolina Beer & Beverage",
+    "city": "Mooresville",
+    "state": "NC",
+    "id": 504
+  },
+  {
+    "": 505,
+    "name": "Krebs Brewing Company (Pete's Pl...",
+    "city": "Krebs",
+    "state": "OK",
+    "id": 505
+  },
+  {
+    "": 506,
+    "name": "Warbird Brewing Company",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "id": 506
+  },
+  {
+    "": 507,
+    "name": "Mudshark Brewing Company",
+    "city": "Lake Havasu City",
+    "state": "AZ",
+    "id": 507
+  },
+  {
+    "": 508,
+    "name": "Spilker Ales",
+    "city": "Cortland",
+    "state": "NE",
+    "id": 508
+  },
+  {
+    "": 509,
+    "name": "Wingman Brewers",
+    "city": "Tacoma",
+    "state": "WA",
+    "id": 509
+  },
+  {
+    "": 510,
+    "name": "Kettle House Brewing Company",
+    "city": "Missoula",
+    "state": "MT",
+    "id": 510
+  },
+  {
+    "": 511,
+    "name": "Sherwood Forest Brewers",
+    "city": "Marlborough",
+    "state": "MA",
+    "id": 511
+  },
+  {
+    "": 512,
+    "name": "Cottrell Brewing",
+    "city": "Pawcatuck",
+    "state": "CT",
+    "id": 512
+  },
+  {
+    "": 513,
+    "name": "Arctic Craft Brewery",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "id": 513
+  },
+  {
+    "": 514,
+    "name": "Monkey Paw Pub & Brewery",
+    "city": "San Diego",
+    "state": "CA",
+    "id": 514
+  },
+  {
+    "": 515,
+    "name": "Crabtree Brewing Company",
+    "city": "Greeley",
+    "state": "CO",
+    "id": 515
+  },
+  {
+    "": 516,
+    "name": "Emerald City Beer Company",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 516
+  },
+  {
+    "": 517,
+    "name": "Butcher's Brewing",
+    "city": "Carlsbad",
+    "state": "CA",
+    "id": 517
+  },
+  {
+    "": 518,
+    "name": "New South Brewing Company",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "id": 518
+  },
+  {
+    "": 519,
+    "name": "Big River Brewing Company",
+    "city": "Chattanooga",
+    "state": "TN",
+    "id": 519
+  },
+  {
+    "": 520,
+    "name": "Twisted Pine Brewing Company",
+    "city": "Boulder",
+    "state": "CO",
+    "id": 520
+  },
+  {
+    "": 521,
+    "name": "Flying Dog Brewery",
+    "city": "Frederick",
+    "state": "MD",
+    "id": 521
+  },
+  {
+    "": 522,
+    "name": "Uncommon Brewers",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "id": 522
+  },
+  {
+    "": 523,
+    "name": "Aspen Brewing Company",
+    "city": "Aspen",
+    "state": "CO",
+    "id": 523
+  },
+  {
+    "": 524,
+    "name": "Triangle Brewing Company",
+    "city": "Durham",
+    "state": "NC",
+    "id": 524
+  },
+  {
+    "": 525,
+    "name": "Bomb Beer Company",
+    "city": "New York",
+    "state": "NY",
+    "id": 525
+  },
+  {
+    "": 526,
+    "name": "Churchkey Can Company",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 526
+  },
+  {
+    "": 527,
+    "name": "Intuition Ale Works",
+    "city": "Jacksonville",
+    "state": "FL",
+    "id": 527
+  },
+  {
+    "": 528,
+    "name": "Asheville Brewing Company",
+    "city": "Asheville",
+    "state": "NC",
+    "id": 528
+  },
+  {
+    "": 529,
+    "name": "Northwoods Brewpub",
+    "city": "Eau Claire",
+    "state": "WI",
+    "id": 529
+  },
+  {
+    "": 530,
+    "name": "Buckbean Brewing Company",
+    "city": "Reno",
+    "state": "NV",
+    "id": 530
+  },
+  {
+    "": 531,
+    "name": "Dolores River Brewery",
+    "city": "Dolores",
+    "state": "CO",
+    "id": 531
+  },
+  {
+    "": 532,
+    "name": "Flat Rock Brewing Company",
+    "city": "Smithton",
+    "state": "PA",
+    "id": 532
+  },
+  {
+    "": 533,
+    "name": "Abita Brewing Company",
+    "city": "Abita Springs",
+    "state": "LA",
+    "id": 533
+  },
+  {
+    "": 534,
+    "name": "Mammoth Brewing Company",
+    "city": "Mammoth Lakes",
+    "state": "CA",
+    "id": 534
+  },
+  {
+    "": 535,
+    "name": "Harvest Moon Brewing Company",
+    "city": "Belt",
+    "state": "MT",
+    "id": 535
+  },
+  {
+    "": 536,
+    "name": "Grand Canyon Brewing Company",
+    "city": "Williams",
+    "state": "AZ",
+    "id": 536
+  },
+  {
+    "": 537,
+    "name": "Lewis and Clark Brewing Company",
+    "city": "Helena",
+    "state": "MT",
+    "id": 537
+  },
+  {
+    "": 538,
+    "name": "Dundee Brewing Company",
+    "city": "Rochester",
+    "state": "NY",
+    "id": 538
+  },
+  {
+    "": 539,
+    "name": "Twin Lakes Brewing Company",
+    "city": "Greenville",
+    "state": "DE",
+    "id": 539
+  },
+  {
+    "": 540,
+    "name": "Mother Earth Brewing Company",
+    "city": "Kinston",
+    "state": "NC",
+    "id": 540
+  },
+  {
+    "": 541,
+    "name": "Arcadia Brewing Company",
+    "city": "Battle Creek",
+    "state": "MI",
+    "id": 541
+  },
+  {
+    "": 542,
+    "name": "Angry Minnow Brewing Company",
+    "city": "Hayward",
+    "state": "WI",
+    "id": 542
+  },
+  {
+    "": 543,
+    "name": "Great Northern Brewing Company",
+    "city": "Whitefish",
+    "state": "MT",
+    "id": 543
+  },
+  {
+    "": 544,
+    "name": "Pyramid Breweries",
+    "city": "Seattle",
+    "state": "WA",
+    "id": 544
+  },
+  {
+    "": 545,
+    "name": "Lancaster Brewing Company",
+    "city": "Lancaster",
+    "state": "PA",
+    "id": 545
+  },
+  {
+    "": 546,
+    "name": "Upstate Brewing Company",
+    "city": "Elmira",
+    "state": "NY",
+    "id": 546
+  },
+  {
+    "": 547,
+    "name": "Moat Mountain Smoke House & Brew...",
+    "city": "North Conway",
+    "state": "NH",
+    "id": 547
+  },
+  {
+    "": 548,
+    "name": "Prescott Brewing Company",
+    "city": "Prescott",
+    "state": "AZ",
+    "id": 548
+  },
+  {
+    "": 549,
+    "name": "Mogollon Brewing Company",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "id": 549
+  },
+  {
+    "": 550,
+    "name": "Wind River Brewing Company",
+    "city": "Pinedale",
+    "state": "WY",
+    "id": 550
+  },
+  {
+    "": 551,
+    "name": "Silverton Brewery",
+    "city": "Silverton",
+    "state": "CO",
+    "id": 551
+  },
+  {
+    "": 552,
+    "name": "Mickey Finn's Brewery",
+    "city": "Libertyville",
+    "state": "IL",
+    "id": 552
+  },
+  {
+    "": 553,
+    "name": "Covington Brewhouse",
+    "city": "Covington",
+    "state": "LA",
+    "id": 553
+  },
+  {
+    "": 554,
+    "name": "Dave's Brewfarm",
+    "city": "Wilson",
+    "state": "WI",
+    "id": 554
+  },
+  {
+    "": 555,
+    "name": "Ukiah Brewing Company",
+    "city": "Ukiah",
+    "state": "CA",
+    "id": 555
+  },
+  {
+    "": 556,
+    "name": "Butternuts Beer and Ale",
+    "city": "Garrattsville",
+    "state": "NY",
+    "id": 556
+  },
+  {
+    "": 557,
+    "name": "Sleeping Lady Brewing Company",
+    "city": "Anchorage",
+    "state": "AK",
+    "id": 557
+  }
+]
