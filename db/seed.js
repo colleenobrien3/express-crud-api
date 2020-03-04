@@ -4,20 +4,29 @@ const Brewery = require("../models/Brewery");
 const dataDE = require("./dataDE.json");
 const dataPHL = require("./dataPHL.json");
 
+//Trying to add info on specific beers
+
 const dataBreweries2 = require("./breweries2.json");
 const dataBeers = require("./beers.json");
 
 const newBeerData = dataBeers.map(item => {
+  const breweryThing = {
+    name: item.name,
+    style: item.style,
+    brewery_id: item.brewery_id,
+    brewery: ""
+  };
   for (k = 0; k < dataBreweries2.length; k++) {
-    if (item.breweries_id === dataBreweries2[k].id) {
-      item["brewery"] = dataBreweries[k].id;
+    if (breweryThing.brewery_id === dataBreweries2[k].id) {
+      breweryThing.brewery = dataBreweries2[k].name;
     }
   }
+  return breweryThing;
 });
-
+console.log(newBeerData);
 const newDeData = dataDE.map(item => {
   for (let i = 0; i < newBeerData.length; i++) {
-    if (item.name.contains(newBeerData[i].brewery)) {
+    if (item.name === newBeerData[i].brewery) {
       (item.beers = []), item.beers.push(newBeerData[i]);
     }
   }
@@ -34,6 +43,7 @@ const breweryData = data.map(item => {
   return brewery;
 });
 
+//Trying to add info about beer from another source
 // const beerData = rawBeerData.map(item => {
 //     const beer = {
 //         name: item["13 Guns"],

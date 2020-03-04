@@ -6,7 +6,8 @@ const Brewery = new Schema({
   brewery_type: String,
   street: String,
   city: String,
-  state: String
+  state: String,
+  beers: [String]
 });
 
 module.exports = mongoose.model("Brewery", Brewery);
