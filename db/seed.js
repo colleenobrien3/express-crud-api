@@ -4,7 +4,7 @@ const Brewery = require("../models/Brewery");
 const dataDE = require("./dataDE.json");
 const dataPHL = require("./dataPHL.json");
 
-//Trying to add info on specific beers
+//Adding info on specific beers
 
 const dataBreweries2 = require("./breweries2.json");
 const dataBeers = require("./beers.json");
@@ -23,7 +23,7 @@ const newBeerData = dataBeers.map(item => {
   }
   return breweryThing;
 });
-console.log(newBeerData);
+// console.log(newBeerData);
 
 const newDeData = dataDE.map(item => {
   const brewpub = {
@@ -41,7 +41,24 @@ const newDeData = dataDE.map(item => {
   }
   return brewpub;
 });
-console.log(newDeData);
+// console.log(newDeData);
+
+const newPHLData = dataPHL.map(item => {
+  const brewpub = {
+    name: item.name,
+    brewery_type: item.brewery_type,
+    street: item.street,
+    city: item.city,
+    state: item.state,
+    beers: []
+  };
+  for (let i = 0; i < newBeerData.length; i++) {
+    if (brewpub.name === newBeerData[i].brewery) {
+      brewpub.beers.push(newBeerData[i]);
+    }
+  }
+  return brewpub;
+});
 
 const breweryData = data.map(item => {
   const brewery = {
@@ -77,7 +94,7 @@ Brewery.remove({})
     Brewery.create(newDeData).then(breweries => console.log(breweries));
   })
   .then(() => {
-    Brewery.create(dataPHL).then(breweries => console.log(breweries));
+    Brewery.create(newPHLData).then(breweries => console.log(breweries));
   })
   .catch(err => {
     console.log(err);
