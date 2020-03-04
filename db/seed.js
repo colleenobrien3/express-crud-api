@@ -61,16 +61,34 @@ const newPHLData = dataPHL.map(item => {
   return brewpub;
 });
 
-const breweryData = data.map(item => {
-  const brewery = {
+const newDCData = data.map(item => {
+  const brewpub = {
     name: item.name,
     brewery_type: item.brewery_type,
     street: item.street,
     city: item.city,
-    state: item.state
+    state: item.state,
+    beers: []
   };
-  return brewery;
+  for (let i = 0; i < newBeerData.length; i++) {
+    if (brewpub.name === newBeerData[i].brewery) {
+      brewpub.beers.push(newBeerData[i]);
+    }
+  }
+  return brewpub;
 });
+
+//THIS WORKS FOR DC DATA, BUT SEEMS SUPERFLOUS
+// const breweryData = data.map(item => {
+//   const brewery = {
+//     name: item.name,
+//     brewery_type: item.brewery_type,
+//     street: item.street,
+//     city: item.city,
+//     state: item.state
+//   };
+//   return brewery;
+// });
 
 //Trying to add info about beer from another source
 // const beerData = rawBeerData.map(item => {
@@ -89,7 +107,7 @@ const breweryData = data.map(item => {
 
 Brewery.remove({})
   .then(() => {
-    Brewery.create(breweryData).then(breweries => console.log(breweries));
+    Brewery.create(newDCData).then(breweries => console.log(breweries));
   })
   .then(() => {
     Brewery.create(newDeData).then(breweries => console.log(breweries));
