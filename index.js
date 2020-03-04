@@ -15,8 +15,14 @@ app.get("/breweries", function(req, res) {
   });
 });
 
-app.get("/brewery/:id", function(req, res) {
+app.get("/breweries/:id", function(req, res) {
   Brewery.findById(req.params.id).then(breweries => {
+    res.json(breweries);
+  });
+});
+
+app.get("/breweries/name", function(req, res) {
+  Brewery.find({ name: req.params.name }).then(breweries => {
     res.json(breweries);
   });
 });
