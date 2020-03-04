@@ -39,7 +39,7 @@ app.get("/breweries/state/:state", function(req, res) {
   });
 });
 
-app.post("/brewery", function(req, res) {
+app.post("/breweries", function(req, res) {
   Brewery.create(req.body).then(brewery => {
     res.json(brewery);
   });
