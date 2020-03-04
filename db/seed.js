@@ -24,13 +24,24 @@ const newBeerData = dataBeers.map(item => {
   return breweryThing;
 });
 console.log(newBeerData);
+
 const newDeData = dataDE.map(item => {
+  const brewpub = {
+    name: item.name,
+    brewery_type: item.brewery_type,
+    street: item.street,
+    city: item.city,
+    state: item.state,
+    beers: []
+  };
   for (let i = 0; i < newBeerData.length; i++) {
-    if (item.name === newBeerData[i].brewery) {
-      (item.beers = []), item.beers.push(newBeerData[i]);
+    if (brewpub.name === newBeerData[i].brewery) {
+      brewpub.beers.push(newBeerData[i]);
     }
   }
+  return brewpub;
 });
+console.log(newDeData);
 
 const breweryData = data.map(item => {
   const brewery = {
