@@ -21,8 +21,8 @@ app.get("/breweries/:id", function(req, res) {
   });
 });
 
-app.get("/breweries/name", function(req, res) {
-  Brewery.find({ name: req.params.name }).then(breweries => {
+app.get("/breweries/name/:name", function(req, res) {
+  Brewery.findOne({ name: req.params.name }).then(breweries => {
     res.json(breweries);
   });
 });
