@@ -35,6 +35,7 @@ const newDeData = dataDE.map(item => {
     street: item.street,
     city: item.city,
     state: item.state,
+    postal_code: item.postal_code,
     beers: []
   };
   for (let i = 0; i < newBeerData.length; i++) {
@@ -53,6 +54,7 @@ const newPHLData = dataPHL.map(item => {
     street: item.street,
     city: item.city,
     state: item.state,
+    postal_code: item.postal_code,
     beers: []
   };
   for (let i = 0; i < newBeerData.length; i++) {
@@ -70,6 +72,7 @@ const newDCData = data.map(item => {
     street: item.street,
     city: item.city,
     state: item.state,
+    postal_code: item.postal_code,
     beers: []
   };
   for (let i = 0; i < newBeerData.length; i++) {
@@ -87,6 +90,7 @@ const newMDData = dataMD.map(item => {
     street: item.street,
     city: item.city,
     state: item.state,
+    postal_code: item.postal_code,
     beers: []
   };
   for (let i = 0; i < newBeerData.length; i++) {
@@ -104,6 +108,7 @@ const newVAData = dataVA.map(item => {
     street: item.street,
     city: item.city,
     state: item.state,
+    postal_code: item.postal_code,
     beers: []
   };
   for (let i = 0; i < newBeerData.length; i++) {

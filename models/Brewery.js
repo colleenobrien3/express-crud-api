@@ -4,7 +4,9 @@ const Schema = mongoose.Schema;
 const Beer = new Schema({
   name: String,
   style: String,
-  abv: Number
+  abv: Number,
+  ibu: Number,
+  ounces: Number
 });
 
 const Brewery = new Schema({
@@ -13,6 +15,11 @@ const Brewery = new Schema({
   street: String,
   city: String,
   state: String,
+  postal_code: String,
+  longitude: String,
+  latitude: String,
+  phone: String,
+  website_url: String,
   beers: [Beer]
 });
 

@@ -10,3 +10,135 @@ scenarios:
   - flow:
       - get:
           url: "/docs"
+# First test
+
+# Started phase 0, duration: 60s @ 16:22:49(-0500) 2020-03-04
+# Report @ 16:22:59(-0500) 2020-03-04
+# Elapsed time: 10 seconds
+#   Scenarios launched:  199
+#   Scenarios completed: 194
+#   Requests completed:  390
+#   RPS sent: 39.86
+#   Request latency:
+#     min: 50.8
+#     max: 385.8
+#     median: 179.7
+#     p95: 244.5
+#     p99: 289
+#   Codes:
+#     200: 194
+#     302: 196
+
+# Report @ 16:23:09(-0500) 2020-03-04
+# Elapsed time: 20 seconds
+#   Scenarios launched:  200
+#   Scenarios completed: 201
+#   Requests completed:  400
+#   RPS sent: 39.94
+#   Request latency:
+#     min: 51.8
+#     max: 262.4
+#     median: 75.4
+#     p95: 210.8
+#     p99: 239.8
+#   Codes:
+#     200: 201
+#     302: 199
+
+# Report @ 16:23:19(-0500) 2020-03-04
+# Elapsed time: 30 seconds
+#   Scenarios launched:  200
+#   Scenarios completed: 200
+#   Requests completed:  400
+#   RPS sent: 40.04
+#   Request latency:
+#     min: 51
+#     max: 509.1
+#     median: 139.6
+#     p95: 251.7
+#     p99: 283
+#   Codes:
+#     200: 200
+#     302: 200
+
+# Report @ 16:23:29(-0500) 2020-03-04
+# Elapsed time: 40 seconds
+#   Scenarios launched:  200
+#   Scenarios completed: 189
+#   Requests completed:  381
+#   RPS sent: 39.24
+#   Request latency:
+#     min: 51.7
+#     max: 800.3
+#     median: 180
+#     p95: 647.7
+#     p99: 711.6
+#   Codes:
+#     200: 189
+#     302: 192
+
+# Report @ 16:23:39(-0500) 2020-03-04
+# Elapsed time: 50 seconds
+#   Scenarios launched:  200
+#   Scenarios completed: 210
+#   Requests completed:  418
+#   RPS sent: 40.8
+#   Request latency:
+#     min: 52.3
+#     max: 851.3
+#     median: 183.7
+#     p95: 259.2
+#     p99: 684
+#   Codes:
+#     200: 210
+#     302: 208
+
+# Report @ 16:23:49(-0500) 2020-03-04
+# Elapsed time: 1 minute, 0 seconds
+#   Scenarios launched:  200
+#   Scenarios completed: 201
+#   Requests completed:  401
+#   RPS sent: 40.04
+#   Request latency:
+#     min: 51.1
+#     max: 350.1
+#     median: 112.3
+#     p95: 207.7
+#     p99: 244
+#   Codes:
+#     200: 201
+#     302: 200
+
+# Report @ 16:23:49(-0500) 2020-03-04
+# Elapsed time: 1 minute, 0 seconds
+#   Scenarios launched:  1
+#   Scenarios completed: 5
+#   Requests completed:  10
+#   RPS sent: 12
+#   Request latency:
+#     min: 52
+#     max: 213.6
+#     median: 118.6
+#     p95: 213.6
+#     p99: 213.6
+#   Codes:
+#     200: 5
+#     302: 5
+
+# All virtual users finished
+# Summary report @ 16:23:49(-0500) 2020-03-04
+#   Scenarios launched:  1200
+#   Scenarios completed: 1200
+#   Requests completed:  2400
+#   RPS sent: 39.72
+#   Request latency:
+#     min: 50.8
+#     max: 851.3
+#     median: 179
+#     p95: 254.4
+#     p99: 648.7
+#   Scenario counts:
+#     0: 1200 (100%)
+#   Codes:
+#     200: 1200
+#     302: 1200

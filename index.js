@@ -51,6 +51,17 @@ app.get("/breweries", function(req, res) {
   }
 });
 
+app.get("/breweries/near/:postal_code", function(req, res) {
+  Brewery.find({
+    postal_code: {
+      $gt: req.params.postal_code - 5,
+      $lt: req.params.postal_code + 5
+    }
+  }).then(breweries => {
+    res.json(breweries);
+  });
+});
+
 app.post("/breweries", function(req, res) {
   Brewery.create(req.body).then(brewery => {
     res.json(brewery);
