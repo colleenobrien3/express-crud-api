@@ -2,6 +2,8 @@ const express = require("express");
 const app = express();
 const parser = require("body-parser");
 const Brewery = require("./models/Brewery");
+var cors = require("cors");
+app.use(cors());
 
 app.use(parser.json());
 
