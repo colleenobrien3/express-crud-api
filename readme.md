@@ -20,9 +20,13 @@
 
 Click [here](https://evening-ravine-76048.herokuapp.com/breweries) to view the API on Heroku!
 
-## Built With
+## Built With:
 
 - JavaScript
 - Express
 - MongoDB
 - Node
+
+## Goals
+
+I just need to define paths to implement Delete and Update functionality and achieve full CRUD! It shouldn't be too hard to do, just need to find the time! User authentication would also be cool to do eventually, maybe with JWT Tokens and Passport.
