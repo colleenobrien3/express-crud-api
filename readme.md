@@ -16,8 +16,6 @@
 | GET    | /breweries/near/:postal_code | Retrieves breweries within 5 area codes away in each direction               |
 | POST   |          /breweries          | Adds a new brewery to the collection                                         |
 
-![alt text](pics)
-
 ## Getting Started
 
 Click [here](https://evening-ravine-76048.herokuapp.com/breweries) to view the API on Heroku!
